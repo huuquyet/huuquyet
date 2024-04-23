@@ -12,7 +12,7 @@ Skills: Typescript / Stellar Soroban / Tamagui / React Native / Expo / Next.js /
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=huuquyet)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huuquyet)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=huuquyet&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huuquyet)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=huuquyet&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=huuquyet)  
 
