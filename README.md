@@ -1,9 +1,14 @@
 ### Hi there 👋, my name is Quyet
-<img width="100%" loading="lazy" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 #### I am unemployed and I love opensource
+<img width="100%" loading="lazy" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huuquyet/huuquyet/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huuquyet/huuquyet/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huuquyet/huuquyet/output/github-contribution-grid-snake.svg">
+</picture>
 
-[![I am Quyet](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)](https://github.com/rahuldkjain/github-profile-readme-generator)
+_generated with [Platane/snk](https://github.com/Platane/snk) and [Profile readme generator](https://github.com/rahuldkjain/github-profile-readme-generator)_
 
 I cloned and edited projects just for fun
 
