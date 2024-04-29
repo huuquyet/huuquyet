@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Quyet
-#### I am unemployed
+<img width="100%" loading="lazy" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+#### I am unemployed and I love opensource
 
 [![I am Quyet](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)](https://github.com/rahuldkjain/github-profile-readme-generator)
 
@@ -9,7 +11,9 @@ Skills: Typescript / Stellar Soroban / Tamagui / React Native / Expo / Next.js /
 
 - 🌱 I’m currently learning transfomers.js
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/huuquyet)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/huuquyetng)
+[<img src='https://cdn.simpleicons.org/github/_/orange' alt='github' height='32' width='32'>](https://github.com/huuquyet)  [<img src='https://cdn.simpleicons.org/twitter/_/orange' alt='twitter' height='32' width='32'>](https://twitter.com/huuquyetng)
+
+<img width="100%" loading="lazy" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <details>
   <summary><b>🏆 GitHub Profile Trophy</b></summary>
