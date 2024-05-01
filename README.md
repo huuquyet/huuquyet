@@ -39,4 +39,11 @@ Skills: Typescript / Stellar Soroban / Tamagui / React Native / Expo / Next.js /
   [![GitHub streak stats](https://streak-stats.demolab.com/?user=huuquyet&theme=onedark&hide_border=true&background=00000000)](https://github.com/DenverCoder1/github-readme-streak-stats)
 </details>
 
+<details>
+  <summary><b>🕰️ Wakatime stats</b></summary>
+  
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
+
 Thanks for reading
