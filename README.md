@@ -43,7 +43,32 @@ Skills: Typescript / Stellar Soroban / Tamagui / React Native / Expo / Next.js /
   <summary><b>🕰️ Wakatime stats</b></summary>
   
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                498 commits         ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+🌆 Daytime                657 commits         ██████████░░░░░░░░░░░░░░░   39.48 % 
+🌃 Evening                377 commits         ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+🌙 Night                  132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/huuquyet/huuquyet/main/assets/bar_graph.png)
+
+
+ Last Updated on 01/05/2024 08:26:10 UTC
+<!--END_SECTION:waka-->
 </details>
 
 Thanks for reading
