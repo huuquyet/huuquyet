@@ -1,7 +1,9 @@
 ### Hi there 👋, my name is Quyet
 
 #### I am unemployed and I love opensource
-<img width="100%" loading="lazy" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<img width="100%" loading="lazy" alt="loading" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huuquyet/huuquyet/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huuquyet/huuquyet/output/github-contribution-grid-snake.svg">
@@ -18,7 +20,7 @@ Skills: Typescript / Stellar Soroban / Tamagui / React Native / Expo / Next.js /
 
 [<img src='https://cdn.simpleicons.org/github/_/orange' alt='github' height='32' width='32'>](https://github.com/huuquyet)  [<img src='https://cdn.simpleicons.org/twitter/_/orange' alt='twitter' height='32' width='32'>](https://twitter.com/huuquyetng)
 
-<img width="100%" loading="lazy" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<img width="100%" loading="lazy" alt="loading" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <details>
   <summary><b>🏆 GitHub Profile Trophy</b></summary>
@@ -72,4 +74,27 @@ JavaScript               0 secs              ░░░░░░░░░░░�
 _generated with [Waka readme stats](anmol098/waka-readme-stats)_
 </details>
 
+<details>
+  <summary><b>✨ Year 2023 in code</b></summary>
+  
+  [![Year in code](https://raw.githubusercontent.com/huuquyet/huuquyet/main/assets/huuquyet.png)](https://year-in-code.com/huuquyet)
+</details>
+
+<img width="100%" loading="lazy" alt="loading" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 Thanks for reading
+
+<!--
+**huuquyet/huuquyet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
