@@ -14,7 +14,7 @@ I cloned and edited projects just for fun
 
 Skills: Typescript / Stellar Soroban / Tamagui / React Native / Expo / Next.js / Transformers.js
 
-- 🌱 I’m currently learning transfomers.js
+- 🌱 I’m currently learning Transfomers.js
 
 [<img src='https://cdn.simpleicons.org/github/_/orange' alt='github' height='32' width='32'>](https://github.com/huuquyet)  [<img src='https://cdn.simpleicons.org/twitter/_/orange' alt='twitter' height='32' width='32'>](https://twitter.com/huuquyetng)
 
@@ -68,6 +68,8 @@ JavaScript               0 secs              ░░░░░░░░░░░�
 
  Last Updated on 02/05/2024 01:30:48 UTC
 <!--END_SECTION:waka-->
+
+_generated with [Waka readme stats](anmol098/waka-readme-stats)_
 </details>
 
 Thanks for reading

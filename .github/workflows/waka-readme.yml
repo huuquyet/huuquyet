@@ -4,8 +4,8 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "10 0 * * *"
+    # runs everyday at 00:05
+    - cron: "5 0 * * *"
 
 jobs:
   update-readme:
@@ -19,9 +19,9 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
-          SHOW_PROFILE_VIEWS: "True"
+          SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_DAYS_OF_WEEK: "True"
           SHOW_LANGUAGE: "True"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
@@ -29,4 +29,3 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
-          DEBUG_LOGGING: "False"
