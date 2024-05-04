@@ -5,12 +5,12 @@
 <img width="100%" loading="lazy" alt="loading" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <picture>
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/huuquyet/huuquyet/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huuquyet/huuquyet/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huuquyet/huuquyet/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huuquyet/huuquyet/output/github-contribution-grid-snake.svg">
+  <img alt="Github contribution grid snake animation" src="https://raw.githubusercontent.com/huuquyet/huuquyet/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk) and [Profile readme generator](https://github.com/rahuldkjain/github-profile-readme-generator)_
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 I cloned and edited projects just for fun
 
@@ -18,27 +18,49 @@ Skills: Typescript / Stellar Soroban / Tamagui / React Native / Expo / Next.js /
 
 - 🌱 I’m currently learning Transfomers.js
 
-[<img src='https://cdn.simpleicons.org/github/_/orange' alt='github' height='32' width='32'>](https://github.com/huuquyet)  [<img src='https://cdn.simpleicons.org/twitter/_/orange' alt='twitter' height='32' width='32'>](https://twitter.com/huuquyetng)
+[<img alt='Github' src='https://cdn.simpleicons.org/github/_/orange' height='32' width='32'>](https://github.com/huuquyet)  [<img alt='Twitter' src='https://cdn.simpleicons.org/twitter/_/orange' height='32' width='32'>](https://x.com/huuquyetng)
 
 <img width="100%" loading="lazy" alt="loading" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <details>
-  <summary><b>🏆 GitHub Profile Trophy</b></summary>
+  <summary><b>🏆 Github Profile Trophy</b></summary>
+
+  <picture>
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-profile-trophy.vercel.app/?username=huuquyet&theme=flat&no-frame=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=huuquyet&theme=onedark&no-frame=true">
+    <img alt="Github Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=huuquyet&theme=onedark&no-frame=true">
+  </picture>
   
-  [![Trophy](https://github-profile-trophy.vercel.app/?username=huuquyet&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+  _generated with [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)_
 </details>
 
 <details>
-  <summary><b>⚡ GitHub Profile Stat</b></summary>
+  <summary><b>⚡ Github Profile Stats</b></summary>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huuquyet&layout=donut&theme=onedark&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=huuquyet&show_icons=true&theme=onedark&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+  <picture>
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=huuquyet&layout=donut&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=huuquyet&layout=donut&theme=onedark&hide_border=true">
+    <img alt="Top Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuquyet&layout=donut&theme=onedark&hide_border=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=huuquyet&show_icons=true&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=huuquyet&show_icons=true&theme=onedark&hide_border=true">
+    <img alt="Github Profile Stats" src="https://github-readme-stats.vercel.app/api?username=huuquyet&show_icons=true&theme=onedark&hide_border=true">
+  </picture>
+  
+  _generated with [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)_
 </details>
 
 <details>
-  <summary><b>🔥 GitHub Profile Streak</b></summary>
+  <summary><b>🔥 Github Profile Streak Stats</b></summary>
   
-  [![GitHub streak stats](https://streak-stats.demolab.com/?user=huuquyet&theme=onedark&hide_border=true&background=00000000)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  <picture>
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=huuquyet&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=huuquyet&theme=onedark&hide_border=true">
+    <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com/?user=huuquyet&theme=onedark&hide_border=true">
+  </picture>
+
+  _generated with [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)_
 </details>
 
 <details>
@@ -79,15 +101,17 @@ JavaScript               8 mins              ░░░░░░░░░░░�
 
 
  Last Updated on 04/05/2024 01:22:47 UTC
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
-_generated with [Waka readme stats](anmol098/waka-readme-stats)_
+  _generated with [Waka readme stats](anmol098/waka-readme-stats)_
 </details>
 
 <details>
   <summary><b>✨ Year 2023 in code</b></summary>
   
   [![Year in code](https://raw.githubusercontent.com/huuquyet/huuquyet/main/assets/huuquyet.png)](https://year-in-code.com/huuquyet)
+
+  _generated with [Year in code](https://github.com/withgraphite/year-in-code)_
 </details>
 
 <img width="100%" loading="lazy" alt="loading" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
