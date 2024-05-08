@@ -1,0 +1,33 @@
+name: generate daily inspirational quotes
+
+on:
+  # run automatically every days at 00:05
+  schedule:
+    - cron: "5 0 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      # checkout only assets folder
+      - name: checkout only assets folder
+        uses: actions/checkout@v4
+        with:
+          # ref: output
+          sparse-checkout: README.md
+      - run: |
+          chmod +x quote_of_the_day.sh
+          ./quote_of_the_day.sh
+          # Note: the following account information will not work on GHES
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Generated quote of the day from ZenQuotes.io"
+          git push

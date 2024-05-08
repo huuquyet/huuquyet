@@ -10,7 +10,7 @@
   <img alt="Github contribution grid snake animation" src="https://raw.githubusercontent.com/huuquyet/huuquyet/main/assets/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+*generated with [Platane/snk](https://github.com/Platane/snk)*
 
 I cloned and edited projects just for fun
 
@@ -31,7 +31,7 @@ Skills: Typescript / Stellar Soroban / Tamagui / React Native / Expo / Next.js /
     <img alt="Github Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=huuquyet&theme=onedark&no-frame=true">
   </picture>
   
-  _generated with [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)_
+  *generated with [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)*
 </details>
 
 <details>
@@ -48,7 +48,7 @@ Skills: Typescript / Stellar Soroban / Tamagui / React Native / Expo / Next.js /
     <img alt="Github Profile Stats" src="https://github-readme-stats.vercel.app/api?username=huuquyet&show_icons=true&theme=onedark&hide_border=true">
   </picture>
   
-  _generated with [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)_
+  *generated with [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)*
 </details>
 
 <details>
@@ -60,7 +60,7 @@ Skills: Typescript / Stellar Soroban / Tamagui / React Native / Expo / Next.js /
     <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com/?user=huuquyet&theme=onedark&hide_border=true">
   </picture>
 
-  _generated with [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)_
+  *generated with [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)*
 </details>
 
 <details>
@@ -103,7 +103,7 @@ YAML                     43 mins             █░░░░░░░░░░�
  Last Updated on 08/05/2024 01:10:28 UTC
 <!--END_SECTION:waka-->
 
-  _generated with [Waka readme stats](anmol098/waka-readme-stats)_
+  *generated with [Waka readme stats](anmol098/waka-readme-stats)*
 </details>
 
 <details>
@@ -111,10 +111,21 @@ YAML                     43 mins             █░░░░░░░░░░�
   
   [![Year in code](https://raw.githubusercontent.com/huuquyet/huuquyet/main/assets/huuquyet.png)](https://year-in-code.com/huuquyet)
 
-  _generated with [Year in code](https://github.com/withgraphite/year-in-code)_
+  *generated with [Year in code](https://github.com/withgraphite/year-in-code)*
 </details>
 
 <img width="100%" loading="lazy" alt="loading" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+
+[***Daily Inspirational Quotes***](https://zenquotes.io/)
+
+<!-- START_QUOTE -->
+
+> "The only people who never fail are those who never try."
+>
+> *- Ilka Chase -*
+
+<!-- END_QUOTE -->
 
 Thanks for reading
 
