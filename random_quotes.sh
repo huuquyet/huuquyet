@@ -12,12 +12,12 @@ END="<!-- END_QUOTE -->"
 # sed -n '/'"$START"'/,/'"$END"'/{//!p}' README.md
 # sed -n '/START_QUOTE/,/END_QUOTE/{//!p}' README.md
 
-# Get the quote of the day from zenquotes api
-ZENQUOTE=$( curl -s https://zenquotes.io/api/today | jq -r '.[0]' )
-QUOTE=$( echo $ZENQUOTE | jq -r '.q' )  
-AUTHOR=$( echo $ZENQUOTE | jq -r '.a' ) 
+# Get random quotes from https://github.com/lukePeavey/quotable
+QUOTABLE=$( curl -s https://api.quotable.io/quotes/random | jq -r '.[0]' )
+CONTENT=$( echo $QUOTABLE | jq -r '.content' )  
+AUTHOR=$( echo $QUOTABLE | jq -r '.author' ) 
 DISPLAY=' \
-  > “'"$QUOTE"'” \
+  > “'"$CONTENT"'” \
   > \
   > *- '"$AUTHOR"' -*\n'
 

@@ -29,3 +29,4 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
+          COMMIT_MESSAGE: ":robot: Updated the WakaTime stats"

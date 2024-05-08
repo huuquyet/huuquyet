@@ -117,13 +117,13 @@ YAML                     43 mins             █░░░░░░░░░░�
 <img width="100%" loading="lazy" alt="loading" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 
-[***Daily Inspirational Quotes***](https://zenquotes.io/)
+[***Daily Inspirational Quotes***](https://github.com/lukePeavey/quotable)
 
 <!-- START_QUOTE -->
  
-  > “People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.” 
+  > “Music in the soul can be heard by the universe.” 
   > 
-  > *- Zig Ziglar -*
+  > *- Laozi -*
 
 <!-- END_QUOTE -->
 
