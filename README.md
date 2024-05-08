@@ -120,10 +120,10 @@ YAML                     43 mins             █░░░░░░░░░░�
 [***Daily Inspirational Quotes***](https://zenquotes.io/)
 
 <!-- START_QUOTE -->
-
-> "The only people who never fail are those who never try."
->
-> *- Ilka Chase -*
+ 
+  > “People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.” 
+  > 
+  > *- Zig Ziglar -*
 
 <!-- END_QUOTE -->
 
