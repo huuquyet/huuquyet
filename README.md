@@ -121,9 +121,9 @@ YAML                     43 mins             █░░░░░░░░░░�
 
 <!-- START_QUOTE -->
  
-  > “Music in the soul can be heard by the universe.” 
+  > “Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.” 
   > 
-  > *- Laozi -*
+  > *- Mary Kay Ash -*
 
 <!-- END_QUOTE -->
 
