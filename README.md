@@ -121,9 +121,9 @@ YAML                     54 mins             █░░░░░░░░░░�
 
 <!-- START_QUOTE -->
  
-  > “All difficult things have their origin in that which is easy, and great things in that which is small.” 
+  > “All experiences are preceded by mind, having mind as their master, created by mind.” 
   > 
-  > *- Laozi -*
+  > *- The Buddha -*
 
 <!-- END_QUOTE -->
 
