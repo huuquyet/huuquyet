@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Check if jq exist to get json response
-if ! command -v jq &> /dev/null; then
+if ! type jq > /dev/null; then
   echo "Install jq to get json response"
   sudo apt install jq -y
 fi
@@ -9,6 +9,7 @@ fi
 # Comment block in READEME.md to insert the quotes
 START="<!-- START_QUOTE -->"
 END="<!-- END_QUOTE -->"
+# Print content between two blocks
 # sed -n '/'"$START"'/,/'"$END"'/{//!p}' README.md
 # sed -n '/START_QUOTE/,/END_QUOTE/{//!p}' README.md
 

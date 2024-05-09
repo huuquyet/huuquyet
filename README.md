@@ -121,9 +121,9 @@ YAML                     54 mins             █░░░░░░░░░░�
 
 <!-- START_QUOTE -->
  
-  > “Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.” 
+  > “All difficult things have their origin in that which is easy, and great things in that which is small.” 
   > 
-  > *- Mary Kay Ash -*
+  > *- Laozi -*
 
 <!-- END_QUOTE -->
 
