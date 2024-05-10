@@ -121,9 +121,9 @@ YAML                     54 mins             █░░░░░░░░░░�
 
 <!-- START_QUOTE -->
  
-  > “All experiences are preceded by mind, having mind as their master, created by mind.” 
+  > “A wise man will make more opportunities than he finds.” 
   > 
-  > *- The Buddha -*
+  > *- Francis Bacon -*
 
 <!-- END_QUOTE -->
 
