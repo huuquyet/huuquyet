@@ -121,9 +121,9 @@ Markdown                 1 hr 7 mins         █░░░░░░░░░░�
 
 <!-- START_QUOTE -->
  
-  > “A wise man will make more opportunities than he finds.” 
+  > “Start where you are. Use what you have. Do what you can.” 
   > 
-  > *- Francis Bacon -*
+  > *- Arthur Ashe -*
 
 <!-- END_QUOTE -->
 

@@ -35,3 +35,13 @@ sed -n -e '/START_QUOTE/{           # when "START_QUOTE" is found
 
 # one line version
 # sed -n -e '/START_QUOTE/{p;:a;N;/END_QUOTE/!ba;s/.*\n/'"$DISPLAY"'\n/};p' -i README.md
+
+# Check if cowsay exist to generate ASCII art
+if ! type cowsay > /dev/null; then
+  echo "Install cowsay to generate ASCII art"
+  sudo apt install cowsay -y
+fi
+
+# Generate ASCII art from https://docs.zenquotes.io/how-to-build-a-zenquotes-api-powered-ascii-art-generator-using-terminal-commands/
+echo $QUOTABLE | jq -r '" " as $space | .content + "\n\n\($space * ((.content |length)-(.author |length) - 2))--" + .author' | 
+      cowsay -nsf $(cowsay -l | tail -n +2 | tr ' ' '\n' | shuf -n1) > cowsay_quotes.md
