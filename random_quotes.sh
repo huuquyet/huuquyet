@@ -14,7 +14,7 @@ END="<!-- END_QUOTE -->"
 # sed -n '/START_QUOTE/,/END_QUOTE/{//!p}' README.md
 
 # Get random quotes from https://github.com/lukePeavey/quotable
-QUOTABLE=$( curl -s https://api.quotable.io/quotes/random | jq -r '.[0]' )
+QUOTABLE=$( curl -s -X GET -H "Content-Type: application/json" https://api.quotable.io/quotes/random | jq -r '.[0]' )
 CONTENT=$( echo $QUOTABLE | jq -r '.content' )  
 AUTHOR=$( echo $QUOTABLE | jq -r '.author' ) 
 DISPLAY=' \
@@ -43,5 +43,5 @@ if ! type cowsay > /dev/null; then
 fi
 
 # Generate ASCII art from https://docs.zenquotes.io/how-to-build-a-zenquotes-api-powered-ascii-art-generator-using-terminal-commands/
-echo $QUOTABLE | jq -r '" " as $space | .content + "\n\n\($space * ((.content |length)-(.author |length) - 2))--" + .author' | 
-      cowsay -nsf $(cowsay -l | tail -n +2 | tr ' ' '\n' | shuf -n1) > cowsay_quotes.md
+echo -e '```\n'"$($QUOTABLE | jq -r '" " as $space | .content + "\n\n\($space * ((.content |length)-(.author |length) - 2))--" + .author' | 
+      cowsay -nsf $(cowsay -l | tail -n +2 | tr ' ' '\n' | shuf -n1))"'\n```' > cowsay_quotes.md
