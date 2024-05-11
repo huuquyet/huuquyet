@@ -121,9 +121,9 @@ Markdown                 1 hr 7 mins         █░░░░░░░░░░�
 
 <!-- START_QUOTE -->
  
-  > “Start where you are. Use what you have. Do what you can.” 
+  > “Experience is not what happens to a man. It is what a man does with what happens to him.” 
   > 
-  > *- Arthur Ashe -*
+  > *- Aldous Huxley -*
 
 <!-- END_QUOTE -->
 
