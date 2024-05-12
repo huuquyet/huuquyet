@@ -127,6 +127,14 @@ Python                   1 hr 15 mins        █░░░░░░░░░░�
 
 <!-- END_QUOTE -->
 
+<details>
+  <summary><b>🖼️ Daily wallpapers</b></summary>
+  
+  ![Awesome Wallpapers](https://raw.githubusercontent.com/huuquyet/huuquyet/main/assets/wallpaper.jpg)
+
+  *generated with [generate-awesome-wallpapers](https://github.com/huuquyet/generate-awesome-wallpapers)*
+</details>
+
 Thanks for reading
 
 <!--
