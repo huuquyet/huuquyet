@@ -121,9 +121,9 @@ Python                   1 hr 15 mins        █░░░░░░░░░░�
 
 <!-- START_QUOTE -->
  
-  > “It is impossible to love and to be wise.” 
+  > “You don't choose your family. They are God's gift to you, as you are to them.” 
   > 
-  > *- Francis Bacon -*
+  > *- Desmond Tutu -*
 
 <!-- END_QUOTE -->
 

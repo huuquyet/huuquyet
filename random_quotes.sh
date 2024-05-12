@@ -43,5 +43,5 @@ if ! type cowsay > /dev/null; then
 fi
 
 # Generate ASCII art from https://docs.zenquotes.io/how-to-build-a-zenquotes-api-powered-ascii-art-generator-using-terminal-commands/
-echo -e '```\n'"$($QUOTABLE | jq -r '" " as $space | .content + "\n\n\($space * ((.content |length)-(.author |length) - 2))--" + .author' | 
-      cowsay -nsf $(cowsay -l | tail -n +2 | tr ' ' '\n' | shuf -n1))"'\n```' > cowsay_quotes.md
+echo $'```\n'"$(echo $QUOTABLE | jq -r '" " as $space | .content + "\n\n\($space * ((.content |length)-(.author |length) - 2))--" + .author' | 
+      cowsay -nsf $(cowsay -l | tail -n +2 | tr ' ' '\n' | shuf -n1))"$'\n```' > cowsay_quotes.md
