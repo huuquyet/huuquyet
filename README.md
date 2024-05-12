@@ -121,9 +121,9 @@ Markdown                 1 hr 11 mins        █░░░░░░░░░░�
 
 <!-- START_QUOTE -->
  
-  > “Experience is not what happens to a man. It is what a man does with what happens to him.” 
+  > “It is impossible to love and to be wise.” 
   > 
-  > *- Aldous Huxley -*
+  > *- Francis Bacon -*
 
 <!-- END_QUOTE -->
 
