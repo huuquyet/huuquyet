@@ -121,9 +121,9 @@ Python                   1 hr 15 mins        █░░░░░░░░░░�
 
 <!-- START_QUOTE -->
  
-  > “You don't choose your family. They are God's gift to you, as you are to them.” 
+  > “Never, never, never give up.” 
   > 
-  > *- Desmond Tutu -*
+  > *- Winston Churchill -*
 
 <!-- END_QUOTE -->
 
