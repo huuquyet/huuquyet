@@ -8,7 +8,17 @@
   *generated with [huuquyet/generate-awesome-wallpapers](https://github.com/huuquyet/generate-awesome-wallpapers)*
 </details>
 
-#### I am unemployed and I love opensource
+[***Daily Inspirational Quotes***](https://github.com/lukePeavey/quotable)
+
+<!-- START_QUOTE -->
+ 
+  > “Never, never, never give up.” 
+  > 
+  > *- Winston Churchill -*
+
+<!-- END_QUOTE -->
+
+#### I am unemployed and I love opensource ❤️
 
 <img width="100%" loading="lazy" alt="loading" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
@@ -124,16 +134,6 @@ Python                   1 hr 23 mins        █░░░░░░░░░░�
 
 <img width="100%" loading="lazy" alt="loading" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-
-[***Daily Inspirational Quotes***](https://github.com/lukePeavey/quotable)
-
-<!-- START_QUOTE -->
- 
-  > “Never, never, never give up.” 
-  > 
-  > *- Winston Churchill -*
-
-<!-- END_QUOTE -->
 
 Thanks for reading
 
