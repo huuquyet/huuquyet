@@ -38,17 +38,19 @@ jobs:
           assets/github-contribution-grid-snake.svg
           assets/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+    # Generate awesome wallpapers, output a jpg at <assets> folder
+    - name: Generate awesome wallpapers
+      uses: huuquyet/generate-awesome-wallpapers@v1
+      id: wallpaper
+      env:
+        HF_API_TOKEN: ${{ secrets.HF_API_TOKEN }}
+
     # Generate random quotes from api.quotable.io
+    # Print the model_id and prompt from above wallpaper step
     - name: Run random_quotes.sh to generate random quotes from api.quotable.io
       run: |
         sudo apt update
-        sh ./random_quotes.sh
-
-    # Generate awesome wallpapers, output a jpg at <assets> folder
-    - name: Generate awesome wallpapers
-      uses: huuquyet/generate-awesome-wallpapers@v0.1
-      env:
-        HF_API_TOKEN: ${{ secrets.HF_API_TOKEN }}
+        sh ./random_quotes.sh ${{ steps.wallpaper.outputs.model_id }} ${{ steps.wallpaper.outputs.prompt }}
 
     # Push grid snake animation and random quotes to main branch
     - name: Push grid snake animation, random quotes and wallpaper to main branch
