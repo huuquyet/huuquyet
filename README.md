@@ -25,11 +25,11 @@ See this quote in [ASCII format](./cowsay_quotes.md)
 
 I cloned and edited projects just for fun
 
-Skills: Typescript / Stellar Soroban / Tamagui / React Native / Expo / Next.js / Transformers.js
+Skills: <img alt='Typescript' src='https://cdn.simpleicons.org/typescript/_/yellow' height='32' width='32'>  <img alt='Javascript' src='https://cdn.simpleicons.org/javascript/_/yellow' height='32' width='32'>  <img alt='Stellar Soroban' src='https://cdn.simpleicons.org/stellar/_/yellow' height='32' width='32'>  <img alt='Expo' src='https://cdn.simpleicons.org/expo/_/yellow' height='32' width='32'>  <img alt='React Native' src='https://cdn.simpleicons.org/react/_/yellow' height='32' width='32'>  <img alt='Python' src='https://cdn.simpleicons.org/python/_/yellow' height='32' width='32'>  <img alt='Next.js' src='https://cdn.simpleicons.org/nextdotjs/_/yellow' height='32' width='32'>  <img alt='Github Actions' src='https://cdn.simpleicons.org/githubactions/_/yellow' height='32' width='32'>  <img alt='Wordpress' src='https://cdn.simpleicons.org/wordpress/_/yellow' height='32' width='32'>  <img alt='Cloudflare' src='https://cdn.simpleicons.org/cloudflare/_/yellow' height='32' width='32'>
 
 - 🌱 I’m currently learning Transfomers.js
 
-[<img alt='Github' src='https://cdn.simpleicons.org/github/_/orange' height='32' width='32'>](https://github.com/huuquyet)  [<img alt='Twitter' src='https://cdn.simpleicons.org/twitter/_/orange' height='32' width='32'>](https://x.com/huuquyetng)  [<img alt='Facebook' src='https://cdn.simpleicons.org/facebook/_/orange' height='32' width='32'>](https://fb.com/huuquyetng)  [<img alt='Gmail' src='https://cdn.simpleicons.org/gmail/_/orange' height='32' width='32'>](mailto:huuquyetng@gmail.com)
+[<img alt='Github' src='https://cdn.simpleicons.org/github/_/yellow' height='32' width='32'>](https://github.com/huuquyet)  [<img alt='Twitter' src='https://cdn.simpleicons.org/twitter/_/yellow' height='32' width='32'>](https://x.com/huuquyetng)  [<img alt='Facebook' src='https://cdn.simpleicons.org/facebook/_/yellow' height='32' width='32'>](https://fb.com/huuquyetng)  [<img alt='Gmail' src='https://cdn.simpleicons.org/gmail/_/yellow' height='32' width='32'>](mailto:huuquyetng@gmail.com)  [<img alt='Discord' src='https://cdn.simpleicons.org/discord/_/yellow' height='32' width='32'>](https://discordapp.com/users/772067447590879292)  [<img alt='Buy me a coffee' src='https://cdn.simpleicons.org/buymeacoffee/_/yellow' height='32' width='32'>](https://buymeacoffee.com/huuquyet)
 
 ---
 
