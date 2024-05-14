@@ -9,13 +9,8 @@ on:
   workflow_dispatch:
   
   # Run on every push on the main branch
-  push:
-    branches: [ "main" ]
-
-# Only a single workflow in the same concurrency will run at the same time
-concurrency:
-  group: '${{ github.workflow }} @ ${{ github.head_ref || github.ref }}'
-  cancel-in-progress: true
+  # push:
+  #   branches: [ "main" ]
 
 jobs:
   update_github_profile_readme:
