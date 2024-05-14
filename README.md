@@ -10,7 +10,7 @@
 
   <!-- START_CAPTION -->
 
-*A breathtaking scene of a radiant sunset reflecting off an undisturbed desert landscape*
+*A night sky illuminated by a radiant display of the Northern Lights, mirrored in the stillness of a pristine lake*
 Run with model [stabilityai/stable-diffusion-xl-base-1.0]
 
 <!-- END_CAPTION -->
@@ -24,9 +24,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <center>
 <!-- START_QUOTE -->
  
-  > “Excellence is to do a common thing in an uncommon way.” 
+  > “In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both.” 
   > 
-  > *- Booker T. Washington -*
+  > *- Mariella Frostrup -*
 
 <!-- END_QUOTE -->
 </center>
