@@ -9,7 +9,11 @@
   ![Awesome Wallpapers](./assets/wallpaper.jpg)
 
   <!-- START_CAPTION -->
-  <!-- END_CAPTION -->
+
+*A vast, golden desert, its undulating dunes creating a mesmerizing pattern*
+Run with model [runwayml/stable-diffusion-v1-5]
+
+<!-- END_CAPTION -->
   </center>
 </details>
 
@@ -19,10 +23,10 @@ This inspirational quote was also updated automatically ([source](https://github
 
 <center>
 <!-- START_QUOTE -->
-  
-  > “Never, never, never give up.” 
+ 
+  > “One today is worth two tomorrows.” 
   > 
-  > *- Winston Churchill -*
+  > *- Benjamin Franklin -*
 
 <!-- END_QUOTE -->
 </center>
