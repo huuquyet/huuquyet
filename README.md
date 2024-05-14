@@ -10,8 +10,8 @@
 
   <!-- START_CAPTION -->
 
-*A vast, golden desert, its undulating dunes creating a mesmerizing pattern*
-Run with model [runwayml/stable-diffusion-v1-5]
+*A breathtaking scene of a radiant sunset reflecting off an undisturbed desert landscape*
+Run with model [stabilityai/stable-diffusion-xl-base-1.0]
 
 <!-- END_CAPTION -->
   </center>
@@ -24,9 +24,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <center>
 <!-- START_QUOTE -->
  
-  > “One today is worth two tomorrows.” 
+  > “Excellence is to do a common thing in an uncommon way.” 
   > 
-  > *- Benjamin Franklin -*
+  > *- Booker T. Washington -*
 
 <!-- END_QUOTE -->
 </center>
