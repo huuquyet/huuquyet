@@ -10,7 +10,7 @@
 
   <!-- START_CAPTION -->
 
-*A night sky illuminated by a radiant display of the Northern Lights, mirrored in the stillness of a pristine lake*
+*A geometrically perfect formation of wild sunflowers, their bright yellow petals reaching towards the sun*
 Run with model [stabilityai/stable-diffusion-xl-base-1.0]
 
 <!-- END_CAPTION -->
@@ -24,9 +24,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <center>
 <!-- START_QUOTE -->
  
-  > “In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both.” 
+  > “Should someone do good, let them do it again and again. They should develop this habit, for the accumulation of goodness brings joy.” 
   > 
-  > *- Mariella Frostrup -*
+  > *- The Buddha -*
 
 <!-- END_QUOTE -->
 </center>
