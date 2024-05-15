@@ -10,8 +10,8 @@
 
   <!-- START_CAPTION -->
 
-*A geometrically perfect formation of wild sunflowers, their bright yellow petals reaching towards the sun*
-Run with model [stabilityai/stable-diffusion-xl-base-1.0]
+  *A snow-covered pine forest under the glow of the Northern Lights*
+  by [runwayml/stable-diffusion-v1-5](https://hf.co/runwayml/stable-diffusion-v1-5)
 
 <!-- END_CAPTION -->
   </center>
@@ -24,9 +24,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <center>
 <!-- START_QUOTE -->
  
-  > “Should someone do good, let them do it again and again. They should develop this habit, for the accumulation of goodness brings joy.” 
+  > “Technology is teaching us to be human again.” 
   > 
-  > *- The Buddha -*
+  > *- Simon Mainwaring -*
 
 <!-- END_QUOTE -->
 </center>
