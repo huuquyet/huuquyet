@@ -1,6 +1,8 @@
 ## Hi there 👋, I'm Quyet 🇻🇳
 ### I love opensource ❤️
 
+[![Generate grid snake animation, WakaTime stats and random quotes](https://github.com/huuquyet/huuquyet/actions/workflows/update-readme-profile.yml/badge.svg)](https://github.com/huuquyet/huuquyet/actions/workflows/update-readme-profile.yml) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](.github/CODE_OF_CONDUCT.md)
+
 <details>
   <summary><b>🖼️ I created a Github action to generate this awesome wallpaper everyday</b></summary>
 
