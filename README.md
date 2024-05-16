@@ -10,8 +10,8 @@
 
   <!-- START_CAPTION -->
 
-  *A snow-covered pine forest under the glow of the Northern Lights*
-  by [runwayml/stable-diffusion-v1-5](https://hf.co/runwayml/stable-diffusion-v1-5)
+  *A tranquil forest path blanketed in bioluminescent mushrooms*
+  by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
 
 <!-- END_CAPTION -->
   </center>
@@ -24,9 +24,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <center>
 <!-- START_QUOTE -->
  
-  > “Technology is teaching us to be human again.” 
+  > “The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.” 
   > 
-  > *- Simon Mainwaring -*
+  > *- Confucius -*
 
 <!-- END_QUOTE -->
 </center>
