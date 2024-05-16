@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Quyet 🇻🇳
 ### I love opensource ❤️
 
- <div style="text-align:right">
+ <div align="right">
 
 [![Generate grid snake animation, WakaTime stats and random quotes](https://github.com/huuquyet/huuquyet/actions/workflows/update-readme-profile.yml/badge.svg)](https://github.com/huuquyet/huuquyet/actions/workflows/update-readme-profile.yml) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](.github/CODE_OF_CONDUCT.md)
 </div>
@@ -9,7 +9,7 @@
 <details>
   <summary><b>🖼️ I created a Github action to generate this awesome wallpaper everyday</b></summary>
 
-  <div style="text-align:center">
+  <div align="center">
 
   ![Awesome Wallpapers](./assets/wallpaper.jpg)
 <!-- START_CAPTION -->
@@ -25,7 +25,7 @@
 
 This inspirational quote was also updated automatically ([source](https://github.com/lukePeavey/quotable))
 
-<div style="text-align:center">
+<div align="center">
 <!-- START_QUOTE -->
  
   > “The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.” 
@@ -45,7 +45,7 @@ Skills: <img alt='Typescript' src='https://cdn.simpleicons.org/typescript/_/yell
 
 - 🌱 I’m currently learning Transfomers.js
 
-<div style="text-align:center">
+<div align="center">
 
   [<img alt='Github' src='https://cdn.simpleicons.org/github/_/yellow' height='32' width='32'>](https://github.com/huuquyet)  [<img alt='Twitter' src='https://cdn.simpleicons.org/twitter/_/yellow' height='32' width='32'>](https://x.com/huuquyetng)  [<img alt='Facebook' src='https://cdn.simpleicons.org/facebook/_/yellow' height='32' width='32'>](https://fb.com/huuquyetng)  [<img alt='Gmail' src='https://cdn.simpleicons.org/gmail/_/yellow' height='32' width='32'>](mailto:huuquyetng@gmail.com)  [<img alt='Discord' src='https://cdn.simpleicons.org/discord/_/yellow' height='32' width='32'>](https://discordapp.com/users/772067447590879292)  [<img alt='Buy me a coffee' src='https://cdn.simpleicons.org/buymeacoffee/_/yellow' height='32' width='32'>](https://buymeacoffee.com/huuquyet)
 
@@ -58,14 +58,14 @@ Skills: <img alt='Typescript' src='https://cdn.simpleicons.org/typescript/_/yell
 <details>
   <summary><b>🐍 Contribution grid snake animation</b></summary>
 
-  <div style="text-align:center">
+  <div align="center">
     <picture>
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/github-contribution-grid-snake.svg">
       <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
       <img alt="Github contribution grid snake animation" src="./assets/github-contribution-grid-snake.svg">
     </picture>
   </div>
-  <div style="text-align:right">
+  <div align="right">
 
   *generated with [Platane/snk](https://github.com/Platane/snk)*
   </div>
@@ -74,14 +74,14 @@ Skills: <img alt='Typescript' src='https://cdn.simpleicons.org/typescript/_/yell
 <details>
   <summary><b>🏆 Github Profile Trophies</b></summary>
 
-  <div style="text-align:center">
+  <div align="center">
     <picture>
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-profile-trophy.vercel.app/?username=huuquyet&theme=flat&no-frame=true">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=huuquyet&theme=onedark&no-frame=true">
       <img alt="Github Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=huuquyet&theme=onedark&no-frame=true">
     </picture>
   </div>
-  <div style="text-align:right">
+  <div align="right">
 
   *generated with [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)*
   </div>
@@ -90,7 +90,7 @@ Skills: <img alt='Typescript' src='https://cdn.simpleicons.org/typescript/_/yell
 <details>
   <summary><b>⚡ Github Profile Stats</b></summary>
 
-  <div style="text-align:center">
+  <div align="center">
     <picture>
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=huuquyet&layout=donut&hide_border=true">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=huuquyet&layout=donut&theme=onedark&hide_border=true">
@@ -102,7 +102,7 @@ Skills: <img alt='Typescript' src='https://cdn.simpleicons.org/typescript/_/yell
       <img alt="Github Profile Stats" src="https://github-readme-stats.vercel.app/api?username=huuquyet&show_icons=true&theme=onedark&hide_border=true">
     </picture>
   </div>
-  <div style="text-align:right">
+  <div align="right">
   
   *generated with [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)*
   </div>
@@ -111,14 +111,14 @@ Skills: <img alt='Typescript' src='https://cdn.simpleicons.org/typescript/_/yell
 <details>
   <summary><b>🔥 Github Profile Streak Stats</b></summary>
 
-  <div style="text-align:center">
+  <div align="center">
     <picture>
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=huuquyet&hide_border=true">
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=huuquyet&theme=onedark&hide_border=true">
       <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com/?user=huuquyet&theme=onedark&hide_border=true">
     </picture>
   </div>
-  <div style="text-align:right">
+  <div align="right">
 
   *generated with [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)*
   </div>
@@ -163,7 +163,7 @@ Bash                     2 hrs 3 mins        █░░░░░░░░░░�
 
  Last Updated on 16/05/2024 01:27:31 UTC
 <!--END_SECTION:waka-->
-  <div style="text-align:right">
+  <div align="right">
 
   *generated with [Waka readme stats](anmol098/waka-readme-stats)*
   </div>
@@ -172,11 +172,11 @@ Bash                     2 hrs 3 mins        █░░░░░░░░░░�
 <details>
   <summary><b>✨ Year 2023 in code</b></summary>
   
-  <div style="text-align:center">
+  <div align="center">
 
   [![Year in code](./assets/huuquyet.png)](https://year-in-code.com/huuquyet)
   </div>
-  <div style="text-align:right">
+  <div align="right">
 
   *generated with [Year in code](https://github.com/withgraphite/year-in-code)*
   </div>
