@@ -14,8 +14,8 @@
   ![Awesome Wallpapers](./assets/wallpaper.jpg)
 <!-- START_CAPTION -->
 
-  *A tranquil forest path blanketed in bioluminescent mushrooms*
-  by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
+  *A sprawling sunflower field, bathed in the warm morning light*
+  by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
 
 <!-- END_CAPTION -->
   </div>
@@ -28,9 +28,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <div align="center">
 <!-- START_QUOTE -->
  
-  > “The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.” 
+  > “The personal life deeply lived always expands into truths beyond itself.” 
   > 
-  > *- Confucius -*
+  > *- Anaïs Nin -*
 
 <!-- END_QUOTE -->
 </div>
