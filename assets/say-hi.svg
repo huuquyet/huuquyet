@@ -44,7 +44,7 @@
           align-items: center;
           color: white;
 
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+          font-family: Inter, Roboto, Helvetica, "Segoe UI", Montserrat, Arial, sans-serif;
           font-size: 13px;
         }
 
@@ -79,7 +79,7 @@
           white-space: nowrap; /* Keeps the content on a single line */
           margin: 0 auto; /* Gives that scrolling effect as the typing happens */
           letter-spacing: .15em; /* Adjust as needed */
-          animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
+          animation: typing 3.5s steps(40, end) alternate infinite, blink-caret .75s step-end infinite;
         }
         
         /* The typing effect */
