@@ -1,4 +1,7 @@
-## Hi there 👋, I'm Quyet 🇻🇳
+<div style="width:100%">
+  <img src="./assets/say-hi.svg" style="width:100%" alt="Hi there 👋">
+</div>
+
 ### I love opensource ❤️
 
  <div align="right">
