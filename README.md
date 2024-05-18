@@ -17,8 +17,8 @@
   ![Awesome Wallpapers](./assets/wallpaper.jpg)
 <!-- START_CAPTION -->
 
-  *A sprawling sunflower field, bathed in the warm morning light*
-  by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+  *A geometrically perfect formation of vibrant, glowing jellyfish gracefully floating in the deep blue sea*
+  by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
 
 <!-- END_CAPTION -->
   </div>
@@ -31,9 +31,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <div align="center">
 <!-- START_QUOTE -->
  
-  > “The personal life deeply lived always expands into truths beyond itself.” 
+  > “Do good by stealth, and blush to find it fame.” 
   > 
-  > *- Anaïs Nin -*
+  > *- Alexander Pope -*
 
 <!-- END_QUOTE -->
 </div>
