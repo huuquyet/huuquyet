@@ -1,3 +1,8 @@
+<!-- START_JOKE -->
+<p class="from-them margin-b_none no-tail"> Why don't scientists trust atoms? </p>
+<p class="from-them no-tail">Because they make up everything! 😂 </p>
+<p class="from-them">Hee-hee-hee! Hope you enjoyed that one, sonny. 😊</p> 
+
 <div style="width:100%">
   <img src="./assets/say-hi.svg" style="width:100%" alt="Hi there 👋">
 </div>
@@ -17,8 +22,8 @@
   ![Awesome Wallpapers](./assets/wallpaper.jpg)
 <!-- START_CAPTION -->
 
-  *A geometrically perfect formation of vibrant, glowing jellyfish gracefully floating in the deep blue sea*
-  by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
+  *A beautifully calm lagoon, surrounded by an array of vibrant, bioluminescent fungi*
+  by [stabilityai/stable-diffusion-xl-base-1.0](https://hf.co/stabilityai/stable-diffusion-xl-base-1.0)
 
 <!-- END_CAPTION -->
   </div>
@@ -46,9 +51,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <div align="center">
 <!-- START_QUOTE -->
  
-  > “Do good by stealth, and blush to find it fame.” 
+  > “Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement.” 
   > 
-  > *- Alexander Pope -*
+  > *- Ralph Marston -*
 
 <!-- END_QUOTE -->
 </div>
