@@ -1,8 +1,3 @@
-<!-- START_JOKE -->
-<p class="from-them margin-b_none no-tail"> Why don't scientists trust atoms? </p>
-<p class="from-them no-tail">Because they make up everything! 😂 </p>
-<p class="from-them">Hee-hee-hee! Hope you enjoyed that one, sonny. 😊</p> 
-
 <div style="width:100%">
   <img src="./assets/say-hi.svg" style="width:100%" alt="Hi there 👋">
 </div>
