@@ -22,9 +22,24 @@
 
 <!-- END_CAPTION -->
   </div>
+  <div align="right">
+
+  *generated with [generate-awesome-wallpapers](https://github.com/huuquyet/generate-awesome-wallpapers)*
+  </div>
 </details>
 
-*Please take a look at [this repo](https://github.com/huuquyet/generate-awesome-wallpapers) to see how it works.*
+*Please take a look at [this repo]() to see how it works.*
+
+This joke was generated with Google's Gemini model:
+
+<div align="center">
+
+  ![Speech bubbles](./assets/speech-bubbles.svg)
+</div>
+<div align="right">
+
+  *generated with [generate-awesome-text](https://github.com/huuquyet/generate-awesome-text)*
+</div>
 
 This inspirational quote was also updated automatically ([source](https://github.com/lukePeavey/quotable))
 
