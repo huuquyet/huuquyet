@@ -28,8 +28,6 @@
   </div>
 </details>
 
-*Please take a look at [this repo]() to see how it works.*
-
 This joke was generated with Google's Gemini model:
 
 <div align="center">
@@ -192,7 +190,7 @@ JSON                     2 hrs 3 mins        █░░░░░░░░░░�
   
   <div align="center">
 
-  [![Year in code](./assets/huuquyet.png)](https://year-in-code.com/huuquyet)
+  [![Year in code](./assets/year-in-code-2023.png)](https://year-in-code.com/huuquyet)
   </div>
   <div align="right">
 

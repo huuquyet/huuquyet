@@ -45,7 +45,7 @@ jobs:
     # Print the model_id and prompt from above wallpaper step
     - name: Run random_quotes.sh to generate random quotes from api.quotable.io
       run: |
-        sudo apt update
+        # sudo apt update
         ./random_quotes.sh
 
     # Generate a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <assets> folder

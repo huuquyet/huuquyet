@@ -100,7 +100,7 @@
           white-space: nowrap;
           margin: 0 auto;
           letter-spacing: .15em;
-          animation: typing 3.5s steps(40, end) alternate infinite, blink-caret .75s step-end infinite;
+          animation: typing 3.5s steps(40, end) infinite alternate, blink-caret .75s infinite step-end;
         }
 
         @keyframes typing {
