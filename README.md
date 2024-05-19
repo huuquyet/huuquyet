@@ -6,7 +6,8 @@
 
  <div align="right">
 
-[![Generate grid snake animation, WakaTime stats and random quotes](https://github.com/huuquyet/huuquyet/actions/workflows/update-readme-profile.yml/badge.svg)](https://github.com/huuquyet/huuquyet/actions/workflows/update-readme-profile.yml) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](.github/CODE_OF_CONDUCT.md)
+[![Update profile automatically](https://github.com/huuquyet/huuquyet/actions/workflows/update-readme-profile.yml/badge.svg)](https://github.com/huuquyet/huuquyet/actions/workflows/update-readme-profile.yml "Update profile automatically")
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](.github/CODE_OF_CONDUCT.md "Contributor Covenant 2.1")
 </div>
 
 <details>
@@ -14,7 +15,7 @@
 
   <div align="center">
 
-  ![Awesome Wallpapers](./assets/wallpaper.jpg)
+  ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
 <!-- START_CAPTION -->
 
   *A mesmerizing field of glowing fireflies amidst a dense forest*
@@ -28,11 +29,11 @@
   </div>
 </details>
 
-This joke was generated with Google's Gemini model:
+This chat was generated with Google's Gemini model:
 
 <div align="center">
 
-  ![Speech bubbles](./assets/speech-bubbles.svg)
+  ![Chat with Gemini](./assets/speech-bubbles.svg "Chat with Google's Gemini model")
 </div>
 <div align="right">
 
@@ -57,13 +58,28 @@ See this quote in [ASCII format](./cowsay_quotes.md)
 
 I cloned and edited projects just for fun
 
-Skills: <img alt='Typescript' src='https://cdn.simpleicons.org/typescript/_/yellow' height='32' width='32'>  <img alt='Javascript' src='https://cdn.simpleicons.org/javascript/_/yellow' height='32' width='32'>  <img alt='Stellar Soroban' src='https://cdn.simpleicons.org/stellar/_/yellow' height='32' width='32'>  <img alt='Expo' src='https://cdn.simpleicons.org/expo/_/yellow' height='32' width='32'>  <img alt='React Native' src='https://cdn.simpleicons.org/react/_/yellow' height='32' width='32'>  <img alt='Python' src='https://cdn.simpleicons.org/python/_/yellow' height='32' width='32'>  <img alt='Next.js' src='https://cdn.simpleicons.org/nextdotjs/_/yellow' height='32' width='32'>  <img alt='Github Actions' src='https://cdn.simpleicons.org/githubactions/_/yellow' height='32' width='32'>  <img alt='Wordpress' src='https://cdn.simpleicons.org/wordpress/_/yellow' height='32' width='32'>  <img alt='Cloudflare' src='https://cdn.simpleicons.org/cloudflare/_/yellow' height='32' width='32'>
+Skills:
+<img height='32' width='32' src='https://cdn.simpleicons.org/typescript/gold/deepskyblue' alt='Typescript'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/javascript/gold/deepskyblue' alt='Javascript'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/stellar/gold/deepskyblue' alt='Stellar Soroban'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/expo/gold/deepskyblue' alt='Expo'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/react/gold/deepskyblue' alt='React Native'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/python/gold/deepskyblue' alt='Python'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/nextdotjs/gold/deepskyblue' alt='Next.js'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/githubactions/gold/deepskyblue' alt='Github Actions'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/wordpress/gold/deepskyblue' alt='Wordpress'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/cloudflare/gold/deepskyblue' alt='Cloudflare'>
 
 - 🌱 I’m currently learning Transfomers.js
 
 <div align="center">
 
-  [<img alt='Github' src='https://cdn.simpleicons.org/github/_/yellow' height='32' width='32'>](https://github.com/huuquyet)  [<img alt='Twitter' src='https://cdn.simpleicons.org/twitter/_/yellow' height='32' width='32'>](https://x.com/huuquyetng)  [<img alt='Facebook' src='https://cdn.simpleicons.org/facebook/_/yellow' height='32' width='32'>](https://fb.com/huuquyetng)  [<img alt='Gmail' src='https://cdn.simpleicons.org/gmail/_/yellow' height='32' width='32'>](mailto:huuquyetng@gmail.com)  [<img alt='Discord' src='https://cdn.simpleicons.org/discord/_/yellow' height='32' width='32'>](https://discordapp.com/users/772067447590879292)  [<img alt='Buy me a coffee' src='https://cdn.simpleicons.org/buymeacoffee/_/yellow' height='32' width='32'>](https://buymeacoffee.com/huuquyet)
+  [<img height='32' width='32' src='https://cdn.simpleicons.org/github/gold/deepskyblue' alt='Github'>](https://github.com/huuquyet "Github")
+  [<img height='32' width='32' src='https://cdn.simpleicons.org/twitter/gold/deepskyblue' alt='X.com'>](https://x.com/huuquyetng "X.com")
+  [<img height='32' width='32' src='https://cdn.simpleicons.org/facebook/gold/deepskyblue' alt='Facebook'>](https://fb.com/huuquyetng "Facebook")
+  [<img height='32' width='32' src='https://cdn.simpleicons.org/gmail/gold/deepskyblue' alt='Gmail'>](mailto:huuquyetng@gmail.com "Gmail")
+  [<img height='32' width='32' src='https://cdn.simpleicons.org/discord/gold/deepskyblue' alt='Discord'>](https://discord.com/users/772067447590879292 "Discord")
+  [<img height='32' width='32' src='https://cdn.simpleicons.org/buymeacoffee/gold/deepskyblue' alt='Buy me a coffee'>](https://buymeacoffee.com/huuquyet "Buy me a coffee")
 
 </div>
 
@@ -76,9 +92,9 @@ Skills: <img alt='Typescript' src='https://cdn.simpleicons.org/typescript/_/yell
 
   <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
-      <img alt="Github contribution grid snake animation" src="./assets/github-contribution-grid-snake.svg">
+      <source srcset="./assets/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+      <source srcset="./assets/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+      <img src="./assets/github-contribution-grid-snake.svg" alt="Github contribution grid snake animation">
     </picture>
   </div>
   <div align="right">
@@ -92,9 +108,9 @@ Skills: <img alt='Typescript' src='https://cdn.simpleicons.org/typescript/_/yell
 
   <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-profile-trophy.vercel.app/?username=huuquyet&theme=flat&no-frame=true">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=huuquyet&theme=onedark&no-frame=true">
-      <img alt="Github Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=huuquyet&theme=onedark&no-frame=true">
+      <source srcset="https://github-profile-trophy.vercel.app/?username=huuquyet&no-frame=true&theme=flat" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+      <source srcset="https://github-profile-trophy.vercel.app/?username=huuquyet&no-frame=true&theme=onedark" media="(prefers-color-scheme: dark)">
+      <img src="https://github-profile-trophy.vercel.app/?username=huuquyet&no-frame=true&theme=onedark" alt="Github Profile Trophy">
     </picture>
   </div>
   <div align="right">
@@ -108,14 +124,14 @@ Skills: <img alt='Typescript' src='https://cdn.simpleicons.org/typescript/_/yell
 
   <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=huuquyet&layout=donut&hide_border=true">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=huuquyet&layout=donut&theme=onedark&hide_border=true">
-      <img alt="Top Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuquyet&layout=donut&theme=onedark&hide_border=true">
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=huuquyet&layout=donut&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=huuquyet&layout=donut&hide_border=true&theme=onedark" media="(prefers-color-scheme: dark)">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuquyet&layout=donut&hide_border=true&theme=onedark" alt="Top Langs Stats">
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=huuquyet&show_icons=true&hide_border=true">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=huuquyet&show_icons=true&theme=onedark&hide_border=true">
-      <img alt="Github Profile Stats" src="https://github-readme-stats.vercel.app/api?username=huuquyet&show_icons=true&theme=onedark&hide_border=true">
+      <source srcset="https://github-readme-stats.vercel.app/api?username=huuquyet&show_icons=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+      <source srcset="https://github-readme-stats.vercel.app/api?username=huuquyet&show_icons=true&hide_border=true&theme=onedark" media="(prefers-color-scheme: dark)">
+      <img src="https://github-readme-stats.vercel.app/api?username=huuquyet&show_icons=true&hide_border=true&theme=onedark" alt="Github Profile Stats">
     </picture>
   </div>
   <div align="right">
@@ -129,9 +145,9 @@ Skills: <img alt='Typescript' src='https://cdn.simpleicons.org/typescript/_/yell
 
   <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=huuquyet&hide_border=true">
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=huuquyet&theme=onedark&hide_border=true">
-      <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com/?user=huuquyet&theme=onedark&hide_border=true">
+      <source srcset="https://streak-stats.demolab.com/?user=huuquyet&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+      <source srcset="https://streak-stats.demolab.com/?user=huuquyet&hide_border=true&theme=onedark" media="(prefers-color-scheme: dark)">
+      <img src="https://streak-stats.demolab.com/?user=huuquyet&hide_border=true&theme=onedark" alt="GitHub Streak Stats">
     </picture>
   </div>
   <div align="right">
@@ -190,7 +206,7 @@ JSON                     2 hrs 43 mins       █░░░░░░░░░░�
   
   <div align="center">
 
-  [![Year in code](./assets/year-in-code-2023.png)](https://year-in-code.com/huuquyet)
+  [![Year in code](./assets/year-in-code-2023.png)](https://year-in-code.com/huuquyet "Year in code")
   </div>
   <div align="right">
 
