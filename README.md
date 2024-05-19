@@ -1,3 +1,8 @@
+<!-- START_JOKE -->
+<p class="from-them margin-b_none no-tail">Why don't scientists trust atoms?</p>
+<p class="from-them no-tail">Because they make up everything! </p>
+<p class="from-them">👴  *chuckles softly*  Get it? They make up everything!  😂 </p> 
+
 <div style="width:100%">
   <img src="./assets/say-hi.svg" style="width:100%" alt="Hi there 👋">
 </div>
@@ -17,8 +22,8 @@
   ![Awesome Wallpapers](./assets/wallpaper.jpg)
 <!-- START_CAPTION -->
 
-  *A beautifully calm lagoon, surrounded by an array of vibrant, bioluminescent fungi*
-  by [stabilityai/stable-diffusion-xl-base-1.0](https://hf.co/stabilityai/stable-diffusion-xl-base-1.0)
+  *A mesmerizing field of glowing fireflies amidst a dense forest*
+  by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
 
 <!-- END_CAPTION -->
   </div>
@@ -44,9 +49,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <div align="center">
 <!-- START_QUOTE -->
  
-  > “Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement.” 
+  > “Technology presumes there's just one right way to do things and there never is.” 
   > 
-  > *- Ralph Marston -*
+  > *- Robert M. Pirsig -*
 
 <!-- END_QUOTE -->
 </div>
