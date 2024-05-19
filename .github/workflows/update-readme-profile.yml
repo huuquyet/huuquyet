@@ -36,7 +36,7 @@ jobs:
 
     # Generate awesome joke, output a svg at <assets> folder
     - name: Generate awesome joke
-      uses: huuquyet/generate-awesome-text@v1.1
+      uses: huuquyet/generate-awesome-text@main
       id: joke
       env:
         GEMINI_API_TOKEN: ${{ secrets.GEMINI_API_TOKEN }}
