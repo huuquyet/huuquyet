@@ -18,8 +18,8 @@
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
 <!-- START_CAPTION -->
 
-  *A mesmerizing field of glowing fireflies amidst a dense forest*
-  by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
+  *A perfectly symmetrical formation of sand dunes, their sleek curves sculpted by the desert wind*
+  by [prompthero/openjourney](https://hf.co/prompthero/openjourney)
 
 <!-- END_CAPTION -->
   </div>
@@ -45,9 +45,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <div align="center">
 <!-- START_QUOTE -->
  
-  > “Technology presumes there's just one right way to do things and there never is.” 
+  > “People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.” 
   > 
-  > *- Robert M. Pirsig -*
+  > *- Tony Robbins -*
 
 <!-- END_QUOTE -->
 </div>
