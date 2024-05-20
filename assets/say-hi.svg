@@ -9,75 +9,72 @@
       </div>
       <style>
         .typewriter {
-          --color-main: #5452ee;
-          --color-primary: #e73c7e;
-          --color-secondary: #23a6d5;
-          --color-tertiary: #ffff;
-          background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
-          background-size: 400% 400%;
-          animation: gradient 15s ease infinite;
           width: 100%;
           height: 150px;
           display: flex;
           justify-content: center;
           align-items: center;
-          color: white;
           font-family: Inter, Roboto, Helvetica, "Segoe UI", Montserrat, Arial, sans-serif;
           font-size: 13px;
           line-height: 1.5;
+          color: white;
+          --color-main: #08d9d6;
+          --color-primary: #252a34;
+          --color-secondary: #ff2e63;
+          --color-tertiary: #eaeaea;
+          background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
+          background-size: 400% 400%;
+          animation: gradient 16s ease infinite;
         }
 
         @media (prefers-color-scheme: light) {
           .typewriter {
-            --color-main: #F15BB5;
-            --color-primary: #24b0ef;
-            --color-secondary: #4526f6;
-            --color-tertiary: #f6f645;
+            color: black;
+            --color-main: #f38181;
+            --color-primary: #fce38a;
+            --color-secondary: #eaffd0;
+            --color-tertiary: #95e1d3;
           }
         }
 
         .typewriter h1 {
+          margin: 0 auto;
+          white-space: nowrap;
           overflow: hidden;
           border-right: .15em solid orange;
-          white-space: nowrap;
-          margin: 0 auto;
           letter-spacing: .15em;
           animation:
-            typing 3.5s steps(40, end) infinite alternate forwards,
+            typing 4s steps(40, end) infinite alternate forwards,
             blink-caret .75s infinite step-end forwards;
         }
 
         .hi {
-          animation: hi 1.5s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
+          animation: hi 1.5s linear -0.5s infinite;
         }
 
         @keyframes typing {
-          from { width: 0; }
-          to { width: 90%; }
+          0%, 10% { width: 0; }
+          90%, 100% { width: 20em; }
         }
 
         @keyframes blink-caret {
-          from, to { border-color: transparent; }
+          0%, 100% { border-color: transparent; }
           50% { border-color: orange; }
         }
 
         @keyframes gradient {
-          0% { background-position: 0% 50%; }
+          0%, 100% { background-position: 0% 50%; }
           50% { background-position: 100% 50%; }
-          100% { background-position: 0% 50%; }
         }
 
         @keyframes hi {
-          0% { transform: rotate(0.0deg); }
-          10% { transform: rotate(14.0deg); }
+          0%, 60%, 100% { transform: rotate(0.0deg); }
+          10%, 30% { transform: rotate(14.0deg); }
           20% { transform: rotate(-8.0deg); }
-          30% { transform: rotate(14.0deg); }
           40% { transform: rotate(-4.0deg); }
           50% { transform: rotate(10.0deg); }
-          60% { transform: rotate(0.0deg); }
-          100% { transform: rotate(0.0deg); }
         }
 
         @media (prefers-reduced-motion) {
