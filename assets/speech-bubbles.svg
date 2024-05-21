@@ -1,91 +1,114 @@
-<svg align="center" fill="none" viewBox="0 0 600 350" width="600" height="350" xmlns="http://www.w3.org/2000/svg">
-    <!-- Inspired from https://codepen.io/AllThingsSmitty/pen/jommGQ -->
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-                .container {
-                    /* max-width: 600px; */
-                    display: flex;
-                    justify-content: center;
-                    align-items: center;
-                    margin: 0 auto;
-                    font-family: Inter, Roboto, Helvetica, "Segoe UI", Montserrat, Arial, sans-serif;
-                    font-size: 16px;
-                    line-height: 1.5;
-                }
+<svg align="center" fill="none" viewBox="0 0 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Inspired from https://codepen.io/AllThingsSmitty/pen/jommGQ -->
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          /* max-width: 600px; */
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          margin: 0 auto;
+          font-family: Inter, Roboto, Helvetica, "Segoe UI", Montserrat, Arial, sans-serif;
+          font-size: 16px;
+          line-height: 1.5;
+        }
 
-                article {
-                    width: 100%;
-                    height: 100%;
-                    display: flex;
-                    flex-direction: column;
-                    text-align: left;
-                    padding: 0.5rem 1.5rem;
-                    /* background-color: white; */
-                    border-radius: 0.25rem;
-                }
+        article {
+          width: 100%;
+          height: 100%;
+          display: flex;
+          flex-direction: column;
+          text-align: left;
+          padding: 0.5rem 1.5rem;
+          /* background-color: white; */
+          border-radius: 0.25rem;
+        }
 
-                article p {
-                    position: relative;
-                    max-width: 75%;
-                    padding: 0.5rem 0.9rem;
-                    margin: 4px 0;
-                    border-radius: 1.15rem;
-                    word-wrap: break-word;
-                    animation: fade 1s linear both;
-                }
+        article p {
+          position: relative;
+          max-width: 75%;
+          padding: 0.5rem 0.9rem;
+          margin: 4px 0;
+          border-radius: 1.15rem;
+          word-wrap: break-word;
+          --color-me: lightgoldenrodyellow;
+          --bg-me-primary: darkcyan;
+          --bg-me-secondary: darkorchid;
+          --color-them: darkslateblue;
+          --bg-them-primary: lightcyan;
+          --bg-them-secondary: lightpink;
+          animation: fade 1s linear both;
+        }
 
-                article p::before,
-                article p::after {
-                    content: "";
-                    position: absolute;
-                    height: 1rem;
-                    bottom: -0.1rem;
-                }
+        @media (prefers-color-scheme: light) {
+          article p {
+            --color-me: darkslateblue;
+            --bg-me-primary: lightskyblue;
+            --bg-me-secondary: lightyellow;
+            --color-them: lightgoldenrodyellow;
+            --bg-them-primary: darkcyan;
+            --bg-them-secondary: darkorchid;
+          }
+        }
 
-                article p.from-me {
-                    align-self: flex-end;
-                    color: white;
-                    background-color: #248bf5;
-                }
+        article p::before,
+        article p::after {
+          content: "";
+          position: absolute;
+          height: 1rem;
+          bottom: -0.1rem;
+        }
 
-                article p.from-them {
-                    align-self: flex-start;
-                    color: black;
-                    background-color: #e5e5ea;
-                }
+        article p.from-me {
+          align-self: flex-end;
+          color: var(--color-me);
+          background: linear-gradient(-45deg, var(--bg-me-primary), var(--bg-me-secondary));
+        }
+
+        article p.from-them {
+          align-self: flex-start;
+          color: var(--color-them);
+          background: linear-gradient(-45deg, var(--bg-them-primary), var(--bg-them-secondary));
+        }
+        
+        article p:nth-child(1) {
+          animation-delay: 1s;
+        }
+        article p:nth-child(2) {
+          animation-delay: 2s;
+        }
+        article p:nth-child(3) {
+          animation-delay: 3s;
+        }
+        article p:nth-child(4) {
+          animation-delay: 4s;
+        }
+        article p:nth-child(5) {
+          animation-delay: 5s;
+        }
+
+        @keyframes fade {
+          0% { opacity: 0; transform: scale(0.1); }
+          90% { opacity: 1; transform: scale(1.1); }
+          100% { transform: scale(1); }
+        }
                 
-                article p:nth-child(1) {
-                    animation-delay: 1s;
-                }
-                article p:nth-child(2) {
-                    animation-delay: 2s;
-                }
-                article p:nth-child(3) {
-                    animation-delay: 3s;
-                }
-                article p:nth-child(4) {
-                    animation-delay: 4s;
-                }
-                article p:nth-child(5) {
-                    animation-delay: 5s;
-                }
-
-                @keyframes fade {
-                    0% { opacity: 0; transform: scale(0.1); }
-                    90% { opacity: 1; transform: scale(1.1); }
-                    100% { transform: scale(1); }
-                }
-            </style>
-            <div class="container">
-                <article>
+        @media (prefers-reduced-motion) {
+          article p {
+            animation: none;
+          }
+        }
+      </style>
+      <div class="container">
+        <article>
 <!-- START_JOKE -->
 <p class="from-me">Please tell a hilarious dad joke about cooking</p>
 <p class="from-them">Alright, get ready for this knee-slapper. Why did the pig stop sunbathing? Because he was bacon in the sun!  Bada-bing! I'll be here all week, folks. Try the veal!</p> 
 <!-- END_JOKE -->
 
-                </article>
-            </div>
-        </div>
-    </foreignObject>
+        </article>
+      </div>
+    </div>
+  </foreignObject>
 </svg>

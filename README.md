@@ -29,7 +29,7 @@
   </div>
 </details>
 
-This chat was generated with Google's Gemini model:
+**Want to chat with Gemini as a stand-up comedian?** Just click [this](https://github.com/huuquyet/generate-awesome-text/issues/new?assignees=&labels=generate&projects=&title=Please+tell+me+how+to+master+a+new+skill&body=Feel+free+to+change+the+title+then+Press+Submit%21)
 
 <div align="center">
 
@@ -59,27 +59,27 @@ See this quote in [ASCII format](./cowsay_quotes.md)
 I cloned and edited projects just for fun
 
 Skills:
-<img height='32' width='32' src='https://cdn.simpleicons.org/typescript/gold/deepskyblue' alt='Typescript'>
-<img height='32' width='32' src='https://cdn.simpleicons.org/javascript/gold/deepskyblue' alt='Javascript'>
-<img height='32' width='32' src='https://cdn.simpleicons.org/stellar/gold/deepskyblue' alt='Stellar Soroban'>
-<img height='32' width='32' src='https://cdn.simpleicons.org/expo/gold/deepskyblue' alt='Expo'>
-<img height='32' width='32' src='https://cdn.simpleicons.org/react/gold/deepskyblue' alt='React Native'>
-<img height='32' width='32' src='https://cdn.simpleicons.org/python/gold/deepskyblue' alt='Python'>
-<img height='32' width='32' src='https://cdn.simpleicons.org/nextdotjs/gold/deepskyblue' alt='Next.js'>
-<img height='32' width='32' src='https://cdn.simpleicons.org/githubactions/gold/deepskyblue' alt='Github Actions'>
-<img height='32' width='32' src='https://cdn.simpleicons.org/wordpress/gold/deepskyblue' alt='Wordpress'>
-<img height='32' width='32' src='https://cdn.simpleicons.org/cloudflare/gold/deepskyblue' alt='Cloudflare'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/typescript/darkcyan/lightyellow' alt='Typescript'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/javascript/darkcyan/lightyellow' alt='Javascript'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/stellar/darkcyan/lightyellow' alt='Stellar Soroban'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/expo/darkcyan/lightyellow' alt='Expo'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/react/darkcyan/lightyellow' alt='React Native'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/python/darkcyan/lightyellow' alt='Python'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/nextdotjs/darkcyan/lightyellow' alt='Next.js'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/githubactions/darkcyan/lightyellow' alt='Github Actions'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/wordpress/darkcyan/lightyellow' alt='Wordpress'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/cloudflare/darkcyan/lightyellow' alt='Cloudflare'>
 
 - 🌱 I’m currently learning Transfomers.js
 
 <div align="center">
 
-  [<img height='32' width='32' src='https://cdn.simpleicons.org/github/gold/deepskyblue' alt='Github'>](https://github.com/huuquyet "Github")
-  [<img height='32' width='32' src='https://cdn.simpleicons.org/twitter/gold/deepskyblue' alt='X.com'>](https://x.com/huuquyetng "X.com")
-  [<img height='32' width='32' src='https://cdn.simpleicons.org/facebook/gold/deepskyblue' alt='Facebook'>](https://fb.com/huuquyetng "Facebook")
-  [<img height='32' width='32' src='https://cdn.simpleicons.org/gmail/gold/deepskyblue' alt='Gmail'>](mailto:huuquyetng@gmail.com "Gmail")
-  [<img height='32' width='32' src='https://cdn.simpleicons.org/discord/gold/deepskyblue' alt='Discord'>](https://discord.com/users/772067447590879292 "Discord")
-  [<img height='32' width='32' src='https://cdn.simpleicons.org/buymeacoffee/gold/deepskyblue' alt='Buy me a coffee'>](https://buymeacoffee.com/huuquyet "Buy me a coffee")
+  [<img height='32' width='32' src='https://cdn.simpleicons.org/github/darkcyan/lightyellow' alt='Github'>](https://github.com/huuquyet "Github")
+  [<img height='32' width='32' src='https://cdn.simpleicons.org/twitter/darkcyan/lightyellow' alt='X.com'>](https://x.com/huuquyetng "X.com")
+  [<img height='32' width='32' src='https://cdn.simpleicons.org/facebook/darkcyan/lightyellow' alt='Facebook'>](https://fb.com/huuquyetng "Facebook")
+  [<img height='32' width='32' src='https://cdn.simpleicons.org/gmail/darkcyan/lightyellow' alt='Gmail'>](mailto:huuquyetng@gmail.com "Gmail")
+  [<img height='32' width='32' src='https://cdn.simpleicons.org/discord/darkcyan/lightyellow' alt='Discord'>](https://discord.com/users/772067447590879292 "Discord")
+  [<img height='32' width='32' src='https://cdn.simpleicons.org/buymeacoffee/darkcyan/lightyellow' alt='Buy me a coffee'>](https://buymeacoffee.com/huuquyet "Buy me a coffee")
 
 </div>
 

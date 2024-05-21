@@ -17,11 +17,11 @@
           font-family: Inter, Roboto, Helvetica, "Segoe UI", Montserrat, Arial, sans-serif;
           font-size: 13px;
           line-height: 1.5;
-          color: white;
-          --color-main: #08d9d6;
-          --color-primary: #252a34;
-          --color-secondary: #ff2e63;
-          --color-tertiary: #eaeaea;
+          color: lightgoldenrodyellow;
+          --color-main: darkcyan;
+          --color-primary: darkorchid;
+          --color-secondary: darkgreen;
+          --color-tertiary: deeppink;
           background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
           background-size: 400% 400%;
           animation: gradient 16s ease infinite;
@@ -29,11 +29,11 @@
 
         @media (prefers-color-scheme: light) {
           .typewriter {
-            color: black;
-            --color-main: #f38181;
-            --color-primary: #fce38a;
-            --color-secondary: #eaffd0;
-            --color-tertiary: #95e1d3;
+            color: darkslateblue;
+            --color-main: lightcoral;
+            --color-primary: lightskyblue;
+            --color-secondary: lightseagreen;
+            --color-tertiary: lightgoldenrodyellow;
           }
         }
 
