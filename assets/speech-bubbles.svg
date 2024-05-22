@@ -4,13 +4,13 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .container {
-          /* max-width: 600px; */
+          max-width: 600px;
           display: flex;
           justify-content: center;
           align-items: center;
           margin: 0 auto;
           font-family: Inter, Roboto, Helvetica, "Segoe UI", Montserrat, Arial, sans-serif;
-          font-size: 16px;
+          font-size: 14px;
           line-height: 1.5;
         }
 
@@ -27,7 +27,7 @@
 
         article p {
           position: relative;
-          max-width: 75%;
+          max-width: 80%;
           padding: 0.5rem 0.9rem;
           margin: 4px 0;
           border-radius: 1.15rem;
@@ -102,6 +102,7 @@
       </style>
       <div class="container">
         <article>
+
 <!-- START_JOKE -->
 <p class="from-me">Please tell me how to become more creative, humorous and attractive</p>
 <p class="from-them">Alright, alright, settle down! One aspiring rockstar at a time. So you wanna be creative, funny, and attractive? That's like asking for the trifecta of awesomeness! </p>

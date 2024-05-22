@@ -7,8 +7,11 @@
  <div align="right">
 
 [![Update profile automatically](https://github.com/huuquyet/huuquyet/actions/workflows/update-readme-profile.yml/badge.svg)](https://github.com/huuquyet/huuquyet/actions/workflows/update-readme-profile.yml "Update profile automatically")
+[![Generate on issues](https://github.com/huuquyet/generate-awesome-text/actions/workflows/generate-on-issues.yml/badge.svg)](https://github.com/huuquyet/generate-awesome-text/actions/workflows/generate-on-issues.yml "Generate when new issue created")
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](.github/CODE_OF_CONDUCT.md "Contributor Covenant 2.1")
 </div>
+
+### Awesome wallpaper everyday
 
 <details>
   <summary><b>🖼️ I created a Github action to generate this awesome wallpaper everyday</b></summary>
@@ -29,6 +32,8 @@
   </div>
 </details>
 
+### Funny answers from Gemini daily
+
 **Want to chat with Gemini as a stand-up comedian?** Just click [this](https://github.com/huuquyet/huuquyet/issues/new?assignees=&labels=generate&projects=&title=Please+tell+me+how+to+be+funny+and+creative&body=Feel+free+to+change+the+title+then+Press+Submit%21)
 
 <div align="center">
@@ -39,6 +44,8 @@
 
   *generated with [generate-awesome-text](https://github.com/huuquyet/generate-awesome-text)*
 </div>
+
+### A random quote a day
 
 This inspirational quote was also updated automatically ([source](https://github.com/lukePeavey/quotable))
 
@@ -55,6 +62,8 @@ This inspirational quote was also updated automatically ([source](https://github
 See this quote in [ASCII format](./cowsay_quotes.md)
 
 ---
+
+### Fun facts
 
 I cloned and edited projects just for fun
 
@@ -85,7 +94,7 @@ Skills:
 
 ---
 
-### My Github stats update automatically
+### Self-updated Github stats
 
 <details>
   <summary><b>🐍 Contribution grid snake animation</b></summary>
