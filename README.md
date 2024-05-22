@@ -18,8 +18,8 @@
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
 <!-- START_CAPTION -->
 
-  *A labyrinth made of towering hedgerows under a full moon*
-  by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
+  *A serene lake reflecting a celestial ballet of shooting stars*
+  by [prompthero/openjourney](https://hf.co/prompthero/openjourney)
 
 <!-- END_CAPTION -->
   </div>
@@ -45,9 +45,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <div align="center">
 <!-- START_QUOTE -->
  
-  > “Never apologize for showing feeling. When you do so, you apologize for truth.” 
+  > “The doorstep to the temple of wisdom is a knowledge of our own ignorance.” 
   > 
-  > *- Benjamin Disraeli -*
+  > *- Benjamin Franklin -*
 
 <!-- END_QUOTE -->
 </div>
