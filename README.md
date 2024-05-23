@@ -65,9 +65,9 @@ See this quote in [ASCII format](./cowsay_quotes.md)
 
 ### Fun facts
 
-I cloned and edited projects just for fun
+- 🌱 I’m currently learning Transfomers.js
 
-Skills:
+- 💬 Ask me about 
 <img height='32' width='32' src='https://cdn.simpleicons.org/typescript/darkcyan/lightyellow' alt='Typescript'>
 <img height='32' width='32' src='https://cdn.simpleicons.org/javascript/darkcyan/lightyellow' alt='Javascript'>
 <img height='32' width='32' src='https://cdn.simpleicons.org/stellar/darkcyan/lightyellow' alt='Stellar Soroban'>
@@ -79,24 +79,23 @@ Skills:
 <img height='32' width='32' src='https://cdn.simpleicons.org/wordpress/darkcyan/lightyellow' alt='Wordpress'>
 <img height='32' width='32' src='https://cdn.simpleicons.org/cloudflare/darkcyan/lightyellow' alt='Cloudflare'>
 
-- 🌱 I’m currently learning Transfomers.js
+- 📫 How to reach me: 
+[<img height='32' width='32' src='https://cdn.simpleicons.org/github/darkcyan/lightyellow' alt='Github'>](https://github.com/huuquyet "Github")
+[<img height='32' width='32' src='https://cdn.simpleicons.org/twitter/darkcyan/lightyellow' alt='X.com'>](https://x.com/huuquyetng "X.com")
+[<img height='32' width='32' src='https://cdn.simpleicons.org/facebook/darkcyan/lightyellow' alt='Facebook'>](https://fb.com/huuquyetng "Facebook")
+[<img height='32' width='32' src='https://cdn.simpleicons.org/gmail/darkcyan/lightyellow' alt='Gmail'>](mailto:huuquyetng@gmail.com "Gmail")
+[<img height='32' width='32' src='https://cdn.simpleicons.org/discord/darkcyan/lightyellow' alt='Discord'>](https://discord.com/users/772067447590879292 "Discord")
+[<img height='32' width='32' src='https://cdn.simpleicons.org/linkedin/darkcyan/lightyellow' alt='Discord'>](https://www.linkedin.com/in/huuquyet "LinkedIn")
+[<img height='32' width='32' src='https://cdn.simpleicons.org/buymeacoffee/darkcyan/lightyellow' alt='Buy me a coffee'>](https://buymeacoffee.com/huuquyet "Buy me a coffee")
 
-<div align="center">
-
-  [<img height='32' width='32' src='https://cdn.simpleicons.org/github/darkcyan/lightyellow' alt='Github'>](https://github.com/huuquyet "Github")
-  [<img height='32' width='32' src='https://cdn.simpleicons.org/twitter/darkcyan/lightyellow' alt='X.com'>](https://x.com/huuquyetng "X.com")
-  [<img height='32' width='32' src='https://cdn.simpleicons.org/facebook/darkcyan/lightyellow' alt='Facebook'>](https://fb.com/huuquyetng "Facebook")
-  [<img height='32' width='32' src='https://cdn.simpleicons.org/gmail/darkcyan/lightyellow' alt='Gmail'>](mailto:huuquyetng@gmail.com "Gmail")
-  [<img height='32' width='32' src='https://cdn.simpleicons.org/discord/darkcyan/lightyellow' alt='Discord'>](https://discord.com/users/772067447590879292 "Discord")
-  [<img height='32' width='32' src='https://cdn.simpleicons.org/buymeacoffee/darkcyan/lightyellow' alt='Buy me a coffee'>](https://buymeacoffee.com/huuquyet "Buy me a coffee")
-
-</div>
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm lazy and useless
 
 ---
 
 ### Self-updated Github stats
 
-<details>
+<details open>
   <summary><b>🐍 Contribution grid snake animation</b></summary>
 
   <div align="center">
