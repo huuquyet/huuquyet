@@ -21,8 +21,8 @@
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
 <!-- START_CAPTION -->
 
-  *A serene lake reflecting a celestial ballet of shooting stars*
-  by [prompthero/openjourney](https://hf.co/prompthero/openjourney)
+  *A perfectly aligned set of smooth, pebble stones on a quiet beach*
+  by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
 
 <!-- END_CAPTION -->
   </div>
@@ -52,9 +52,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <div align="center">
 <!-- START_QUOTE -->
  
-  > “The doorstep to the temple of wisdom is a knowledge of our own ignorance.” 
+  > “With the new day comes new strength and new thoughts.” 
   > 
-  > *- Benjamin Franklin -*
+  > *- Eleanor Roosevelt -*
 
 <!-- END_QUOTE -->
 </div>
