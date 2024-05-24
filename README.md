@@ -21,8 +21,8 @@
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
 <!-- START_CAPTION -->
 
-  *A perfectly aligned set of smooth, pebble stones on a quiet beach*
-  by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+  *A vast field of vibrant sunflowers turning towards the rising sun*
+  by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
 
 <!-- END_CAPTION -->
   </div>
@@ -52,9 +52,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <div align="center">
 <!-- START_QUOTE -->
  
-  > “With the new day comes new strength and new thoughts.” 
+  > “To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.” 
   > 
-  > *- Eleanor Roosevelt -*
+  > *- Henri Bergson -*
 
 <!-- END_QUOTE -->
 </div>
