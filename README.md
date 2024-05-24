@@ -2,9 +2,9 @@
   <img src="./assets/say-hi.svg" style="width:100%" alt="Hi there 👋">
 </div>
 
-### I love opensource ❤️
+### Yesterday you said tomorrow, just do it
 
- <div align="right">
+<div align="right">
 
 [![Update profile automatically](https://github.com/huuquyet/huuquyet/actions/workflows/update-readme-profile.yml/badge.svg)](https://github.com/huuquyet/huuquyet/actions/workflows/update-readme-profile.yml "Update profile automatically")
 [![Generate on issues](https://github.com/huuquyet/generate-awesome-text/actions/workflows/generate-on-issues.yml/badge.svg)](https://github.com/huuquyet/generate-awesome-text/actions/workflows/generate-on-issues.yml "Generate when new issue created")
@@ -63,7 +63,7 @@ See this quote in [ASCII format](./cowsay_quotes.md)
 
 ---
 
-### Fun facts
+### I love opensource ❤️
 
 🌱 I’m currently learning Transfomers.js
 
