@@ -38,15 +38,17 @@ jobs:
       id: wallpaper
       env:
         HF_API_TOKEN: ${{ secrets.HF_API_TOKEN }}
+      with:
+        random: true
 
     # Generate awesome joke, output a svg at <assets> folder
     - name: Generate awesome joke
       uses: huuquyet/generate-awesome-text@main
       id: joke
-      with:
-        prompt: 'Please tell me how to become more creative, humorous and attractive'
       env:
         GEMINI_API_TOKEN: ${{ secrets.GEMINI_API_TOKEN }}
+      with:
+        prompt: 'Please tell me how to become more creative, humorous and attractive'
 
     # Generate random quotes from api.quotable.io
     # Print the model_id and prompt from above wallpaper step
