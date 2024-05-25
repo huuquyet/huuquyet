@@ -21,8 +21,8 @@
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
 <!-- START_CAPTION -->
 
-  *A vast field of vibrant sunflowers turning towards the rising sun*
-  by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
+  *A cascading waterfall in a lush, tropical rainforest*
+  by [runwayml/stable-diffusion-v1-5](https://hf.co/runwayml/stable-diffusion-v1-5)
 
 <!-- END_CAPTION -->
   </div>
@@ -52,9 +52,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <div align="center">
 <!-- START_QUOTE -->
  
-  > “To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.” 
+  > “Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.” 
   > 
-  > *- Henri Bergson -*
+  > *- Jim Rohn -*
 
 <!-- END_QUOTE -->
 </div>
