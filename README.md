@@ -21,8 +21,8 @@
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
 <!-- START_CAPTION -->
 
-  *A cascading waterfall in a lush, tropical rainforest*
-  by [runwayml/stable-diffusion-v1-5](https://hf.co/runwayml/stable-diffusion-v1-5)
+  *A geometrically perfect formation of crystal ice formations on a frozen lake*
+  by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
 
 <!-- END_CAPTION -->
   </div>
@@ -52,9 +52,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <div align="center">
 <!-- START_QUOTE -->
  
-  > “Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.” 
+  > “No man can succeed in a line of endeavor which he does not like.” 
   > 
-  > *- Jim Rohn -*
+  > *- Napoleon Hill -*
 
 <!-- END_QUOTE -->
 </div>
