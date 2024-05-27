@@ -81,7 +81,8 @@ See this quote in [ASCII format](./cowsay_quotes.md)
 
 📫 How to reach me:
 [<img height='32' width='32' src='https://cdn.simpleicons.org/github/darkcyan/lightyellow' alt='Github'>](https://github.com/huuquyet "Github")
-[<img height='32' width='32' src='https://cdn.simpleicons.org/twitter/darkcyan/lightyellow' alt='X.com'>](https://x.com/huuquyetng "X.com")
+[<img height='32' width='32' src='https://cdn.simpleicons.org/huggingface/darkcyan/lightyellow' alt='Hugging Face'>](https://hf.co/huuquyet "Hugging Face")
+[<img height='32' width='32' src='https://cdn.simpleicons.org/x/darkcyan/lightyellow' alt='X.com'>](https://x.com/huuquyetng "X.com")
 [<img height='32' width='32' src='https://cdn.simpleicons.org/facebook/darkcyan/lightyellow' alt='Facebook'>](https://fb.com/huuquyetng "Facebook")
 [<img height='32' width='32' src='https://cdn.simpleicons.org/gmail/darkcyan/lightyellow' alt='Gmail'>](mailto:huuquyetng@gmail.com "Gmail")
 [<img height='32' width='32' src='https://cdn.simpleicons.org/discord/darkcyan/lightyellow' alt='Discord'>](https://discord.com/users/772067447590879292 "Discord")
