@@ -21,8 +21,8 @@
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
 <!-- START_CAPTION -->
 
-  *A geometrically perfect formation of crystal ice formations on a frozen lake*
-  by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+  *A vibrant coral reef teeming with colorful fish beneath the crystal clear ocean surface*
+  by [prompthero/openjourney](https://hf.co/prompthero/openjourney)
 
 <!-- END_CAPTION -->
   </div>
@@ -52,9 +52,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <div align="center">
 <!-- START_QUOTE -->
  
-  > “No man can succeed in a line of endeavor which he does not like.” 
+  > “Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.” 
   > 
-  > *- Napoleon Hill -*
+  > *- Ralph Waldo Emerson -*
 
 <!-- END_QUOTE -->
 </div>
