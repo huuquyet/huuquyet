@@ -21,8 +21,8 @@
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
 <!-- START_CAPTION -->
 
-  *A vibrant coral reef teeming with colorful fish beneath the crystal clear ocean surface*
-  by [prompthero/openjourney](https://hf.co/prompthero/openjourney)
+  *A serene lake resting within the embrace of a dense, foggy forest*
+  by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
 
 <!-- END_CAPTION -->
   </div>
@@ -52,9 +52,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <div align="center">
 <!-- START_QUOTE -->
  
-  > “Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.” 
+  > “They can do all because they think they can.” 
   > 
-  > *- Ralph Waldo Emerson -*
+  > *- Virgil -*
 
 <!-- END_QUOTE -->
 </div>
