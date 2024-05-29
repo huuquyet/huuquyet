@@ -21,8 +21,8 @@
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
 <!-- START_CAPTION -->
 
-  *A serene lake resting within the embrace of a dense, foggy forest*
-  by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+  *An ancient, gnarled tree standing alone in a snow-covered meadow*
+  by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
 
 <!-- END_CAPTION -->
   </div>
@@ -52,9 +52,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <div align="center">
 <!-- START_QUOTE -->
  
-  > “They can do all because they think they can.” 
+  > “Humanity is acquiring all the right technology for all the wrong reasons.” 
   > 
-  > *- Virgil -*
+  > *- Buckminster Fuller -*
 
 <!-- END_QUOTE -->
 </div>
