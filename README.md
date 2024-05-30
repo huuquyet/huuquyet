@@ -21,8 +21,8 @@
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
 <!-- START_CAPTION -->
 
-  *An ancient, gnarled tree standing alone in a snow-covered meadow*
-  by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
+  *A pristine, untouched snowscape under the vibrant dance of the northern lights*
+  by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
 
 <!-- END_CAPTION -->
   </div>
@@ -52,9 +52,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <div align="center">
 <!-- START_QUOTE -->
  
-  > “Humanity is acquiring all the right technology for all the wrong reasons.” 
+  > “Knowing your own darkness is the best method for dealing with the darkness of other people.” 
   > 
-  > *- Buckminster Fuller -*
+  > *- Carl Jung -*
 
 <!-- END_QUOTE -->
 </div>
