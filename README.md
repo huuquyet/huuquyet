@@ -21,8 +21,8 @@
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
 <!-- START_CAPTION -->
 
-  *A pristine, untouched snowscape under the vibrant dance of the northern lights*
-  by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
+  *A labyrinthine maze of geometric patterns, each segment filled with a different abstract texture*
+  by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
 
 <!-- END_CAPTION -->
   </div>
@@ -52,9 +52,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <div align="center">
 <!-- START_QUOTE -->
  
-  > “Knowing your own darkness is the best method for dealing with the darkness of other people.” 
+  > “Trust your hunches. They're usually based on facts filed away just below the conscious level.” 
   > 
-  > *- Carl Jung -*
+  > *- Joyce Brothers -*
 
 <!-- END_QUOTE -->
 </div>
