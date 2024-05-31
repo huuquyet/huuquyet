@@ -20,10 +20,7 @@
 
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
 <!-- START_CAPTION -->
-
-  *A labyrinthine maze of geometric patterns, each segment filled with a different abstract texture*
-  by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
-
+*A geometrically perfect series of smooth, rounded stones, balanced precariously in the center of a shallow, clear stream* by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
@@ -52,9 +49,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <div align="center">
 <!-- START_QUOTE -->
  
-  > “Trust your hunches. They're usually based on facts filed away just below the conscious level.” 
+  > “Wisdom is oftentimes nearer when we stoop than when we soar.” 
   > 
-  > *- Joyce Brothers -*
+  > *- William Wordsworth -*
 
 <!-- END_QUOTE -->
 </div>
