@@ -1,1 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="150" fill="none" align="center" viewBox="0 0 600 150"><foreignObject width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml"><div class="typewriter"><h1>Hi there<div class="hi">👋</div>, my name is Quyet 🇻🇳</h1></div><style>@keyframes typing{0%,10%{width:0}90%{width:20em}}@keyframes blink-caret{0%{border-color:transparent}50%{border-color:orange}}@keyframes gradient{0%{background-position:0 50%}50%{background-position:100% 50%}}@keyframes hi{0%,60%{transform:rotate(0deg)}10%,30%{transform:rotate(14deg)}20%{transform:rotate(-8deg)}40%{transform:rotate(-4deg)}50%{transform:rotate(10deg)}}.typewriter{width:100%;height:150px;display:flex;justify-content:center;align-items:center;font-family:Inter,Roboto,Helvetica,&quot;Segoe UI&quot;,Montserrat,Arial,sans-serif;font-size:13px;line-height:1.5;color:#fafad2;--color-main:darkcyan;--color-primary:darkorchid;--color-secondary:darkgreen;--color-tertiary:deeppink;background:linear-gradient(-45deg,var(--color-main),var(--color-primary),var(--color-secondary),var(--color-tertiary));background-size:400% 400%;animation:gradient 16s ease infinite}@media (prefers-color-scheme:light){.typewriter{color:#483d8b;--color-main:lightcoral;--color-primary:lightskyblue;--color-secondary:lightseagreen;--color-tertiary:lightgoldenrodyellow}}.typewriter h1{margin:0 auto;white-space:nowrap;overflow:hidden;border-right:.15em solid orange;letter-spacing:.15em;animation:typing 4s steps(40,end) infinite alternate forwards,blink-caret .75s infinite step-end forwards}.hi{display:inline-block;transform-origin:70% 70%;animation:hi 1.5s linear -.5s infinite}@media (prefers-reduced-motion){.hi,h1{animation:none}}</style></div></foreignObject></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="150" fill="none" align="center" viewBox="0 0 600 150">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="typewriter">
+        <h1>Hi there<div class="hi">👋</div>, my name is Quyet 🇻🇳</h1>
+      </div>
+    </div>
+  </foreignObject>
+  <defs>
+    <style type="text/css">
+      @keyframes typing {
+        0%, 10% { width: 0 }
+        90% { width: 20em }
+      }
+
+      @keyframes blink-caret {
+        0% { border-color: transparent }
+        50% { border-color: orange }
+      }
+
+      @keyframes gradient {
+        0% { background-position: 0 50% }
+        50% { background-position: 100% 50% }
+      }
+
+      @keyframes hi {
+        0%, 60% { transform: rotate(0deg) }
+        10%, 30% { transform: rotate(14deg) }
+        20% { transform: rotate(-8deg) }
+        40% { transform: rotate(-4deg) }
+        50% { transform: rotate(10deg) }
+      }
+
+      .typewriter {
+        width: 100%;
+        height: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: Inter, Roboto, Helvetica, 'Segoe UI', Montserrat, Arial, sans-serif;
+        font-size: 13px;
+        line-height: 1.5;
+        color: #fafad2;
+        --color-main: darkcyan;
+        --color-primary: darkorchid;
+        --color-secondary: darkgreen;
+        --color-tertiary: deeppink;
+        background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
+        background-size: 400% 400%;
+        animation: gradient 16s ease infinite
+      }
+
+      @media (prefers-color-scheme:light) {
+        .typewriter {
+          color: #483d8b;
+          --color-main: lightcoral;
+          --color-primary: lightskyblue;
+          --color-secondary: lightseagreen;
+          --color-tertiary: lightgoldenrodyellow
+        }
+      }
+
+      .typewriter h1 {
+        margin: 0 auto;
+        white-space: nowrap;
+        overflow: hidden;
+        border-right: .15em solid orange;
+        letter-spacing: .15em;
+        animation: typing 4s steps(40, end) infinite alternate forwards, blink-caret .75s infinite step-end forwards
+      }
+
+      .hi {
+        display: inline-block;
+        transform-origin: 70% 70%;
+        animation: hi 1.5s linear -.5s infinite
+      }
+
+      @media (prefers-reduced-motion) {
+        .hi, h1 {
+          animation: none
+        }
+      }
+    </style>
+  </defs>
+</svg>

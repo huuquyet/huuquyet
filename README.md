@@ -19,6 +19,7 @@
   <div align="center">
 
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
+
 <!-- START_CAPTION -->
 *A geometrically perfect series of smooth, rounded stones, balanced precariously in the center of a shallow, clear stream* by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
 <!-- END_CAPTION -->
@@ -88,7 +89,7 @@ See this quote in [ASCII format](./cowsay_quotes.md)
 
 😄 Pronouns: he/him
 
-⚡ Fun fact: I'm lazy and useless
+⚡ Fun fact: I'm slow, lazy and useless
 
 ---
 
