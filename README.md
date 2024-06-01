@@ -21,7 +21,7 @@
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
 
 <!-- START_CAPTION -->
-*A geometrically perfect series of smooth, rounded stones, balanced precariously in the center of a shallow, clear stream* by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
+*An ancient, towering monolith, its surface etched with geometric patterns, standing solitary in the heart of a dense, foggy forest* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
@@ -50,9 +50,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <div align="center">
 <!-- START_QUOTE -->
  
-  > “Wisdom is oftentimes nearer when we stoop than when we soar.” 
+  > “We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.” 
   > 
-  > *- William Wordsworth -*
+  > *- Ralph Waldo Emerson -*
 
 <!-- END_QUOTE -->
 </div>
