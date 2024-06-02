@@ -21,7 +21,7 @@
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
 
 <!-- START_CAPTION -->
-*An ancient, towering monolith, its surface etched with geometric patterns, standing solitary in the heart of a dense, foggy forest* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+*A blanket of twinkling fireflies over a lush, verdant meadow* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
@@ -50,9 +50,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <div align="center">
 <!-- START_QUOTE -->
  
-  > “We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.” 
+  > “Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?” 
   > 
-  > *- Ralph Waldo Emerson -*
+  > *- Friedrich Nietzsche -*
 
 <!-- END_QUOTE -->
 </div>
