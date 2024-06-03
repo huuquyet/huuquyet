@@ -21,7 +21,7 @@
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
 
 <!-- START_CAPTION -->
-*A blanket of twinkling fireflies over a lush, verdant meadow* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+*A geometrically perfect labyrinth formed by an array of blooming lavender bushes, their purple hues vibrant under the afternoon sun* by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
@@ -50,9 +50,9 @@ This inspirational quote was also updated automatically ([source](https://github
 <div align="center">
 <!-- START_QUOTE -->
  
-  > “Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?” 
+  > “The only true wisdom is in knowing you know nothing.” 
   > 
-  > *- Friedrich Nietzsche -*
+  > *- Isocrates -*
 
 <!-- END_QUOTE -->
 </div>
