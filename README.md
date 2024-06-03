@@ -11,6 +11,20 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](.github/CODE_OF_CONDUCT.md "Contributor Covenant 2.1")
 </div>
 
+### Trích dẫn Truyện Kiều - Nguyễn Du chữ Nôm
+
+Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 1871](https://vi.wikisource.org/wiki/Truy%E1%BB%87n_Ki%E1%BB%81u_(b%E1%BA%A3n_Li%E1%BB%85u_V%C4%83n_%C3%90%C6%B0%E1%BB%9Dng_1871)))
+
+<div align="center">
+  <img src="./assets/random-kieu.svg" alt="The Tale of Kieu - Nguyen Du">
+</div>
+<div align="right">
+
+  *generated with [random-tale-of-kieu](https://github.com/huuquyet/random-tale-of-kieu)*
+</div>
+
+---
+
 ### Awesome wallpaper everyday
 
 <details>
@@ -42,24 +56,6 @@
 
   *generated with [generate-awesome-text](https://github.com/huuquyet/generate-awesome-text)*
 </div>
-
-### A random quote a day
-
-This inspirational quote was also updated automatically ([source](https://github.com/lukePeavey/quotable))
-
-<div align="center">
-<!-- START_QUOTE -->
- 
-  > “The only true wisdom is in knowing you know nothing.” 
-  > 
-  > *- Isocrates -*
-
-<!-- END_QUOTE -->
-</div>
-
-See this quote in [ASCII format](./cowsay_quotes.md)
-
----
 
 ### I love opensource ❤️
 

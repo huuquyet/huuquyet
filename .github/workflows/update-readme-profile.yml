@@ -32,34 +32,33 @@ jobs:
       # with:
       #   sparse-checkout: assets
 
-    # Generate awesome wallpapers, output a jpg at <assets> folder
+    # Generate awesome wallpapers, output wallpaper.jpg at <assets> folder
     - name: Generate awesome wallpapers
-      uses: huuquyet/generate-awesome-wallpapers@main
       id: wallpaper
+      uses: huuquyet/generate-awesome-wallpapers@main
       env:
         HF_API_TOKEN: ${{ secrets.HF_API_TOKEN }}
       with:
         random: true
 
-    # Generate awesome joke, output a svg at <assets> folder
-    - name: Generate awesome joke
+    # Generate chat with Gemini, output speech-bubbles.svg at <assets> folder
+    - name: Generate chat bubbles with Gemini model
+      id: gemini
       uses: huuquyet/generate-awesome-text@main
-      id: joke
       env:
         GEMINI_API_TOKEN: ${{ secrets.GEMINI_API_TOKEN }}
       with:
         prompt: 'Please tell me how to become more creative, humorous and attractive'
 
-    # Generate random quotes from api.quotable.io
-    # Print the model_id and prompt from above wallpaper step
-    - name: Run random_quotes.sh to generate random quotes from api.quotable.io
-      run: |
-        # sudo apt update
-        ./random_quotes.sh
+    # Get random quotes from The Tale of Kieu - Nguyen Du, output random-kieu.svg at <assets> folder
+    - name: Get random quotes from The Tale of Kieu
+      id: kieu
+      uses: huuquyet/random-tale-of-kieu@main
 
     # Generate a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <assets> folder
     # the content will be available at main branch after push step
     - name: Generate assets github-contribution-grid-snake.svg
+      id: snake
       uses: Platane/snk/svg-only@v3
       with:
         github_user_name: ${{ github.repository_owner }}
@@ -70,6 +69,7 @@ jobs:
     # Push awesome wallpapers, random quotes & grid snake animation to main branch
     # Note: the following account information will not work on GHES
     - name: Push awesome wallpapers, random quotes and grid snake animation to main branch
+      id: push
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -79,6 +79,7 @@ jobs:
 
     # Update WakaTime stats between START_SECTION:waka and END_SECTION:waka blocks in README.md
     - name: Update README.md with WakaTime stats
+      id: waka
       uses: anmol098/waka-readme-stats@master
       with:
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -97,3 +98,14 @@ jobs:
         SHOW_LANGUAGE_PER_REPO: "False"
         SHOW_LOC_CHART: "False"
         COMMIT_MESSAGE: ":robot: Updated the WakaTime stats [skip ci]"
+
+  rerun-failed-jobs:
+    runs-on: ubuntu-latest
+    name: Rerun failed jobs in the current workflow
+    needs: [ update_github_profile_readme ]
+    if: failure()
+    steps:
+      - name: Rerun failed jobs in the current workflow
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: gh run rerun ${{ github.run_id }} --failed
