@@ -35,7 +35,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
 
 <!-- START_CAPTION -->
-*A geometrically perfect labyrinth formed by an array of blooming lavender bushes, their purple hues vibrant under the afternoon sun* by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
+*A cascading waterfall nestled within a lush, tropical rainforest* by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
