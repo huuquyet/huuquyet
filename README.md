@@ -2,7 +2,7 @@
   <img src="./assets/say-hi.svg" style="width:100%" alt="Hi there 👋">
 </div>
 
-### Yesterday you said tomorrow, just do it
+## YESTERDAY YOU SAID TOMORROW, JUST DO IT
 
 <div align="right">
 
@@ -27,7 +27,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
 
 ### Awesome wallpaper everyday
 
-<details>
+<details open>
   <summary><b>🖼️ I created a Github action to generate this awesome wallpaper everyday</b></summary>
 
   <div align="center">
@@ -44,18 +44,26 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
   </div>
 </details>
 
+---
+
 ### Funny answers from Gemini daily
 
-**Want to chat with Gemini as a stand-up comedian?** Just click [this](https://github.com/huuquyet/huuquyet/issues/new?assignees=&labels=generate&projects=&title=Please+tell+me+how+to+be+funny+and+creative&body=Feel+free+to+change+the+title+then+Press+Submit%21)
+<details open>
+  <summary><b>🖼️ This speech bubble was also generated everyday</b></summary>
 
-<div align="center">
+  ***Want to chat with Gemini as a stand-up comedian?*** Just click [this](https://github.com/huuquyet/huuquyet/issues/new?assignees=&labels=generate&projects=&title=Please+tell+me+how+to+be+funny+and+creative&body=Feel+free+to+change+the+title+then+Press+Submit%21)
+
+  <div align="center">
 
   ![Chat with Gemini](./assets/speech-bubbles.svg "Chat with Google's Gemini model")
-</div>
-<div align="right">
+  </div>
+  <div align="right">
 
   *generated with [generate-awesome-text](https://github.com/huuquyet/generate-awesome-text)*
-</div>
+  </div>
+</details>
+
+---
 
 ### I love opensource ❤️
 
