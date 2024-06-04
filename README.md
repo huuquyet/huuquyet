@@ -16,7 +16,8 @@
 Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 1871](https://vi.wikisource.org/wiki/Truy%E1%BB%87n_Ki%E1%BB%81u_(b%E1%BA%A3n_Li%E1%BB%85u_V%C4%83n_%C3%90%C6%B0%E1%BB%9Dng_1871)))
 
 <div align="center">
-  <img src="./assets/random-kieu.svg" alt="The Tale of Kieu - Nguyen Du">
+
+  ![Truyện Kiều - Nguyễn Du](./assets/random-kieu.svg "Truyện Kiều - Nguyễn Du chữ Nôm")
 </div>
 <div align="right">
 
@@ -32,7 +33,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
 
   <div align="center">
 
-  ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
+  ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
 *A labyrinthine garden of topiary designs under a full moon* by [prompthero/openjourney](https://hf.co/prompthero/openjourney)
@@ -49,7 +50,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
 ### Funny answers from Gemini daily
 
 <details open>
-  <summary><b>🖼️ This speech bubble was also generated everyday</b></summary>
+  <summary><b>💬 This chat bubble was also generated everyday</b></summary>
 
   ***Want to chat with Gemini as a stand-up comedian?*** Just click [this](https://github.com/huuquyet/huuquyet/issues/new?assignees=&labels=generate&projects=&title=Please+tell+me+how+to+be+funny+and+creative&body=Feel+free+to+change+the+title+then+Press+Submit%21)
 
@@ -209,7 +210,7 @@ JSON                     1 hr 44 mins        █░░░░░░░░░░�
 <!--END_SECTION:waka-->
   <div align="right">
 
-  *generated with [Waka readme stats](anmol098/waka-readme-stats)*
+  *generated with [Waka readme stats](https://github.com/athul/waka-readme)*
   </div>
 </details>
 
