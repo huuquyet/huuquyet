@@ -76,15 +76,8 @@ jobs:
         git commit -m ":robot: Generated awesome wallpaper, quotes & grid snake animation [skip ci]"
         git push
 
-  update-wakatime:
-    runs-on: ubuntu-latest
-    name: Update README.md with WakaTime stats
-    permissions:
-      contents: write
-    timeout-minutes: 5
-    steps:
     # Update WakaTime stats between START_SECTION:waka and END_SECTION:waka blocks in README.md
-    - name: Update wakatime stats
+    - name: Update README.md with WakaTime stats
       id: waka
       uses: athul/waka-readme@master
       with:
