@@ -35,7 +35,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers generated everyday")
 
 <!-- START_CAPTION -->
-*A geometrically perfect formation of breaking wave crests, their foamy white edges stark against the deep blue ocean* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+*A labyrinthine garden of topiary designs under a full moon* by [prompthero/openjourney](https://hf.co/prompthero/openjourney)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
