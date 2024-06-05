@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A labyrinthine garden of topiary designs under a full moon* by [prompthero/openjourney](https://hf.co/prompthero/openjourney)
+*A field of bioluminescent mushrooms sprouting in a mystical forest* by [runwayml/stable-diffusion-v1-5](https://hf.co/runwayml/stable-diffusion-v1-5)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
