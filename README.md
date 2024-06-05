@@ -52,7 +52,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
 <details open>
   <summary><b>💬 This chat bubble was also generated everyday</b></summary>
 
-  ***Want to chat with Gemini as a stand-up comedian?*** Just click [this](https://github.com/huuquyet/huuquyet/issues/new?assignees=&labels=generate&projects=&title=Please+tell+me+how+to+be+funny+and+creative&body=Feel+free+to+change+the+title+then+Press+Submit%21)
+  ***Want to chat with Gemini as a stand-up comedian?*** Just click [this](https://github.com/huuquyet/huuquyet/issues/new?assignees=&labels=gemini&projects=&title=Please+tell+me+how+to+be+funny+and+creative&body=Feel+free+to+change+the+title+then+Press+Submit%21)
 
   <div align="center">
 
