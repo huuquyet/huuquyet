@@ -175,11 +175,11 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
 <!--START_SECTION:waka-->
 
 ```txt
-Other         19 hrs 28 mins  ████████████░░░░░░░░░░░░░   48.24 %
-TypeScript    7 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
-Image (svg)   4 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
-Markdown      3 hrs 50 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-JSON          2 hrs 55 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Other         17 hrs 38 mins  ████████████▒░░░░░░░░░░░░   48.86 %
+TypeScript    7 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   19.74 %
+JSON          4 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
+Markdown      2 hrs 48 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+TSConfig      1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
 ```
 
 <!--END_SECTION:waka-->
