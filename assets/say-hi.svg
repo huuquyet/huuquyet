@@ -40,11 +40,11 @@
         font-family: Inter, Roboto, Helvetica, 'Segoe UI', Montserrat, Arial, sans-serif;
         font-size: 13px;
         line-height: 1.5;
-        color: #fafad2;
-        --color-main: darkcyan;
-        --color-primary: darkorchid;
-        --color-secondary: darkgreen;
-        --color-tertiary: deeppink;
+        color: white;
+        --color-main: darkorchid;
+        --color-primary: darkgreen;
+        --color-secondary: darkblue;
+        --color-tertiary: darkred;
         background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
         background-size: 400% 400%;
         animation: gradient 16s ease infinite
@@ -52,7 +52,7 @@
 
       @media (prefers-color-scheme:light) {
         .typewriter {
-          color: #483d8b;
+          color: black;
           --color-main: lightcoral;
           --color-primary: lightskyblue;
           --color-secondary: lightseagreen;

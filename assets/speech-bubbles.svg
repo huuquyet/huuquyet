@@ -51,10 +51,10 @@
         margin: 4px 0;
         border-radius: 1.15rem;
         word-wrap: break-word;
-        --color-me: lightgoldenrodyellow;
+        --color-me: white;
         --bg-me-primary: darkcyan;
         --bg-me-secondary: darkorchid;
-        --color-them: darkslateblue;
+        --color-them: black;
         --bg-them-primary: lightcyan;
         --bg-them-secondary: lightpink;
         animation: fade 1s linear both
@@ -62,10 +62,10 @@
 
       @media (prefers-color-scheme:light) {
         article p {
-          --color-me: darkslateblue;
+          --color-me: black;
           --bg-me-primary: lightskyblue;
           --bg-me-secondary: lightyellow;
-          --color-them: lightgoldenrodyellow;
+          --color-them: white;
           --bg-them-primary: darkcyan;
           --bg-them-secondary: darkorchid
         }
