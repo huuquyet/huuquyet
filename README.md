@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A geometrically perfect formation of star-shaped sand dunes under a night sky embroidered with constellations* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+*A cascading waterfall hidden within a dense, tropical jungle* by [runwayml/stable-diffusion-v1-5](https://hf.co/runwayml/stable-diffusion-v1-5)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
