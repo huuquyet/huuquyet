@@ -93,6 +93,8 @@ jobs:
     timeout-minutes: 5
     if: failure()
     steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
       - name: Rerun failed jobs in the current workflow
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
