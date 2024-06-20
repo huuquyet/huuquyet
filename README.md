@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A geometrically perfect formation of dewdrops on a spider's web, their tiny structures refracting the morning light into a myriad of colors* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+*A garden of glowing fireflies amidst an ancient, moss-covered forest* by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
