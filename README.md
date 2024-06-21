@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A garden of glowing fireflies amidst an ancient, moss-covered forest* by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
+*A geometrically perfect formation of blooming tulips, their petals unfurling to reveal a burst of color* by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
