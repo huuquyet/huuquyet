@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A geometrically perfect formation of blooming tulips, their petals unfurling to reveal a burst of color* by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
+*A solitary, ancient tree standing majestically in the midst of a vibrant, blooming meadow* by [prompthero/openjourney](https://hf.co/prompthero/openjourney)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
