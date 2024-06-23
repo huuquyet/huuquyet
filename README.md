@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A solitary, ancient tree standing majestically in the midst of a vibrant, blooming meadow* by [prompthero/openjourney](https://hf.co/prompthero/openjourney)
+*A geometrically perfect formation of frost patterns adorning a crystal-clear frozen lake* by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
