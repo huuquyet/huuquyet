@@ -175,13 +175,13 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 June 2024 - To: 23 June 2024
+From: 17 June 2024 - To: 24 June 2024
 
-Other                      10 hrs 1 min    █████████████▒░░░░░░░░░░░   52.74 %
-TypeScript                 5 hrs 23 mins   ███████░░░░░░░░░░░░░░░░░░   28.36 %
-JSON                       2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-TSConfig                   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-JavaScript                 15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Other                      11 hrs 20 mins  ███████████▓░░░░░░░░░░░░░   46.12 %
+TypeScript                 7 hrs 14 mins   ███████▒░░░░░░░░░░░░░░░░░   29.42 %
+JSON                       2 hrs 42 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+JavaScript                 59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Rust                       44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 
 <!--END_SECTION:waka-->
