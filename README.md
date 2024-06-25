@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A field of lavender swaying gently under a dramatic sunset* by [stabilityai/stable-diffusion-xl-base-1.0](https://hf.co/stabilityai/stable-diffusion-xl-base-1.0)
+*A vast field of vibrant, blooming tulips swaying gently under a star-studded night sky* by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
