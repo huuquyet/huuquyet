@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A labyrinth of frost patterns on a winter windowpane* by [prompthero/openjourney](https://hf.co/prompthero/openjourney)
+*A geometrically perfect arrangement of brightly colored autumn leaves floating on the serene surface of a crystal-clear lake* by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
