@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A geometrically perfect spiral of dew-kissed fern fronds unfurling in a dense rainforest* by [stabilityai/stable-diffusion-xl-base-1.0](https://hf.co/stabilityai/stable-diffusion-xl-base-1.0)
+*A geometrically perfect web of dew-laden spider silk, glistening in the dawn light, suspended between blossoming cherry branches* by [prompthero/openjourney](https://hf.co/prompthero/openjourney)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
