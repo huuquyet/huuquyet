@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A geometrically perfect web of dew-laden spider silk, glistening in the dawn light, suspended between blossoming cherry branches* by [prompthero/openjourney](https://hf.co/prompthero/openjourney)
+*A geometrically perfect formation of bioluminescent mushrooms, their glow illuminating the dark forest floor* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
