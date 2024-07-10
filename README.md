@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 18
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A geometrically perfect formation of bioluminescent mushrooms, their glow illuminating the dark forest floor* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+*A geometrically perfect formation of raindrops on bamboo leaves, their spherical shapes capturing miniature reflections of the surrounding landscape* by [stabilityai/stable-diffusion-xl-base-1.0](https://hf.co/stabilityai/stable-diffusion-xl-base-1.0)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
