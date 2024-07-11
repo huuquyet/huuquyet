@@ -13,7 +13,7 @@
 
 ### Trích dẫn Truyện Kiều - Nguyễn Du chữ Nôm
 
-Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Liễu Văn Đường 1871](https://vi.wikisource.org/wiki/Truy%E1%BB%87n_Ki%E1%BB%81u_(b%E1%BA%A3n_Li%E1%BB%85u_V%C4%83n_%C3%90%C6%B0%E1%BB%9Dng_1871)))
+Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](https://vi.wikisource.org/wiki/Truy%E1%BB%87n_Ki%E1%BB%81u_(b%E1%BA%A3n_Kinh_T%E1%BB%B1_%C4%90%E1%BB%A9c_1870)))
 
 <div align="center">
 
