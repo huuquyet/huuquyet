@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*An ancient, gnarled tree standing alone in the middle of a geometrically perfect stone circle* by [stabilityai/stable-diffusion-xl-base-1.0](https://hf.co/stabilityai/stable-diffusion-xl-base-1.0)
+*A field of sunflowers swaying gently under the vibrant colors of a rainbow* by [prompthero/openjourney](https://hf.co/prompthero/openjourney)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
