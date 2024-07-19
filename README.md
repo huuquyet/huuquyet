@@ -70,19 +70,21 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
 
 🌱 I’m currently learning Transfomers.js
 
-💬 Ask me about
+💬 Ask me about: 
 <img height='32' width='32' src='https://cdn.simpleicons.org/typescript/darkcyan/lightyellow' alt='Typescript'>
 <img height='32' width='32' src='https://cdn.simpleicons.org/javascript/darkcyan/lightyellow' alt='Javascript'>
 <img height='32' width='32' src='https://cdn.simpleicons.org/stellar/darkcyan/lightyellow' alt='Stellar Soroban'>
 <img height='32' width='32' src='https://cdn.simpleicons.org/expo/darkcyan/lightyellow' alt='Expo'>
 <img height='32' width='32' src='https://cdn.simpleicons.org/react/darkcyan/lightyellow' alt='React Native'>
 <img height='32' width='32' src='https://cdn.simpleicons.org/python/darkcyan/lightyellow' alt='Python'>
+<img height='32' width='32' src='https://cdn.simpleicons.org/rust/darkcyan/lightyellow' alt='Rust'>
 <img height='32' width='32' src='https://cdn.simpleicons.org/nextdotjs/darkcyan/lightyellow' alt='Next.js'>
 <img height='32' width='32' src='https://cdn.simpleicons.org/githubactions/darkcyan/lightyellow' alt='Github Actions'>
 <img height='32' width='32' src='https://cdn.simpleicons.org/wordpress/darkcyan/lightyellow' alt='Wordpress'>
 <img height='32' width='32' src='https://cdn.simpleicons.org/cloudflare/darkcyan/lightyellow' alt='Cloudflare'>
 
 📫 How to reach me:
+[<img height='32' width='32' src='https://cdn.simpleicons.org/google/darkcyan/lightyellow' alt='Google Developer Profile'>](https://g.dev/huuquyet "Google")
 [<img height='32' width='32' src='https://cdn.simpleicons.org/github/darkcyan/lightyellow' alt='Github'>](https://github.com/huuquyet "Github")
 [<img height='32' width='32' src='https://cdn.simpleicons.org/huggingface/darkcyan/lightyellow' alt='Hugging Face'>](https://hf.co/huuquyet "Hugging Face")
 [<img height='32' width='32' src='https://cdn.simpleicons.org/x/darkcyan/lightyellow' alt='X.com'>](https://x.com/huuquyetng "X.com")
@@ -90,11 +92,12 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
 [<img height='32' width='32' src='https://cdn.simpleicons.org/gmail/darkcyan/lightyellow' alt='Gmail'>](mailto:huuquyetng@gmail.com "Gmail")
 [<img height='32' width='32' src='https://cdn.simpleicons.org/discord/darkcyan/lightyellow' alt='Discord'>](https://discord.com/users/772067447590879292 "Discord")
 [<img height='32' width='32' src='https://cdn.simpleicons.org/linkedin/darkcyan/lightyellow' alt='Discord'>](https://www.linkedin.com/in/huuquyet "LinkedIn")
+[<img height='32' width='32' src='https://cdn.simpleicons.org/patreon/darkcyan/lightyellow' alt='Patreon'>](https://www.patreon.com/HuuQuyet "Patreon")
 [<img height='32' width='32' src='https://cdn.simpleicons.org/buymeacoffee/darkcyan/lightyellow' alt='Buy me a coffee'>](https://buymeacoffee.com/huuquyet "Buy me a coffee")
 
 😄 Pronouns: he/him
 
-⚡ Fun fact: I'm slow, lazy and useless
+⚡ Fun fact: I'm stupid, slow, lazy and useless
 
 ---
 
