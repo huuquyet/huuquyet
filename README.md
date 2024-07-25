@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A vibrant field of sunflowers, their golden heads turned towards the morning sun* by [prompthero/openjourney](https://hf.co/prompthero/openjourney)
+*A towering waterfall cascading down a rugged cliff into a serene turquoise pool* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
