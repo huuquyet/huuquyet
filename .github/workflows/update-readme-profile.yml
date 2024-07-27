@@ -99,5 +99,6 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh run cancel ${{ github.run_id }}
-          gh run rerun ${{ github.run_id }} --repo ${{ github.repository }} --failed
+          # gh run cancel ${{ github.run_id }}
+          JOB_ID=$(gh run view ${{ github.run_id }} --json jobs --jq '.jobs[] | {name, databaseId}')
+          gh run rerun $JOB_ID --repo ${{ github.repository }} --failed
