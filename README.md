@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A carpet of vibrant, blooming lavender stretching towards a solitary, ancient oak tree* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+*A geometrically perfect spiral of brightly colored autumn leaves, gently floating on the surface of a calm lake* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
