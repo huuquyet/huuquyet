@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A geometrically perfect spiral of brightly colored autumn leaves, gently floating on the surface of a calm lake* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+*A solitary, ancient tree standing in the middle of a frozen tundra, its branches heavy with icicles* by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
