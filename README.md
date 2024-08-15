@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A vibrant coral reef teeming with colorful fish and anemones* by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
+*A vast expanse of glowing, phosphorescent algae under the ocean surface* by [prompthero/openjourney](https://hf.co/prompthero/openjourney)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
