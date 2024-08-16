@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A vast expanse of glowing, phosphorescent algae under the ocean surface* by [prompthero/openjourney](https://hf.co/prompthero/openjourney)
+*A geometrically perfect labyrinth of vibrant, bioluminescent fungi, flourishing in the heart of an ancient forest* by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
