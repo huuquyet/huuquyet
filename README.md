@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A field of tall, slender birch trees dusted with fresh snow* by [stabilityai/stable-diffusion-xl-base-1.0](https://hf.co/stabilityai/stable-diffusion-xl-base-1.0)
+*An ancient, sprawling tree covered in luminescent fungi* by [runwayml/stable-diffusion-v1-5](https://hf.co/runwayml/stable-diffusion-v1-5)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
