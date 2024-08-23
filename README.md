@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*An ancient, sprawling tree covered in luminescent fungi* by [runwayml/stable-diffusion-v1-5](https://hf.co/runwayml/stable-diffusion-v1-5)
+*A labyrinth of mirror-like, geometric ice formations under the Northern Lights* by [prompthero/openjourney](https://hf.co/prompthero/openjourney)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
