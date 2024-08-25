@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A solitary, geometrically perfect peacock feather resting on the edge of a tranquil pond* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+*A cascading waterfall flowing down a mountainside covered in bright autumn foliage* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
