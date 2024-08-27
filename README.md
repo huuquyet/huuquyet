@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A geometrically precise formation of dew-kissed spider webs delicately suspended between morning-glory-draped trellises* by [prompthero/openjourney](https://hf.co/prompthero/openjourney)
+*A pristine white snowfall on a quiet pine forest* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
