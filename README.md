@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A serene Japanese Zen garden adorned with meticulously arranged pebbles and tranquil bonsai trees* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+*A cascading waterfall in the heart of a lush tropical rainforest* by [latent-consistency/lcm-lora-sdxl](https://hf.co/latent-consistency/lcm-lora-sdxl)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
