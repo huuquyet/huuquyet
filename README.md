@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A cascading waterfall in the heart of a lush tropical rainforest* by [latent-consistency/lcm-lora-sdxl](https://hf.co/latent-consistency/lcm-lora-sdxl)
+*A serene Japanese Zen garden with a perfectly raked gravel bed and sculptural rocks* by [stabilityai/stable-diffusion-3-medium-diffusers](https://hf.co/stabilityai/stable-diffusion-3-medium-diffusers)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
