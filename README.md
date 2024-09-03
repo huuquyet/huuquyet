@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A geometrically perfect arrangement of iridescent peacock feathers, their vibrant colors and intricate patterns displayed in full glory* by [Yntec/epiCPhotoGasm](https://hf.co/Yntec/epiCPhotoGasm)
+*A labyrinthine network of bioluminescent fungi illuminating a dark forest floor* by [SG161222/Realistic_Vision_V6.0_B1_noVAE](https://hf.co/SG161222/Realistic_Vision_V6.0_B1_noVAE)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
