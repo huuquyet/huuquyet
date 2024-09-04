@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A labyrinthine network of bioluminescent fungi illuminating a dark forest floor* by [SG161222/Realistic_Vision_V6.0_B1_noVAE](https://hf.co/SG161222/Realistic_Vision_V6.0_B1_noVAE)
+*A celestial display of the Northern Lights dancing over a tranquil glacier lagoon* by [digiplay/AbsoluteReality_v1.8.1](https://hf.co/digiplay/AbsoluteReality_v1.8.1)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
