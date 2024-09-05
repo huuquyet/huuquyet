@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A celestial display of the Northern Lights dancing over a tranquil glacier lagoon* by [digiplay/AbsoluteReality_v1.8.1](https://hf.co/digiplay/AbsoluteReality_v1.8.1)
+*A geometrically perfect array of luminescent mushrooms growing on a moss-covered log, their glow creating an ethereal spectacle in the heart of a dense forest* by [stabilityai/stable-diffusion-3-medium-diffusers](https://hf.co/stabilityai/stable-diffusion-3-medium-diffusers)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
