@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A sweeping view of a vast lavender field under a cloud-speckled sky* by [Yntec/epiCPhotoGasm](https://hf.co/Yntec/epiCPhotoGasm)
+*A geometrically perfect formation of monolithic stone arches, their stark silhouettes standing majestic against the sky* by [Corcelio/mobius](https://hf.co/Corcelio/mobius)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
