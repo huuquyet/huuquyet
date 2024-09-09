@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A geometrically perfect formation of monolithic stone arches, their stark silhouettes standing majestic against the sky* by [Corcelio/mobius](https://hf.co/Corcelio/mobius)
+*A pristine, turquoise glacier lake, surrounded by a breathtaking array of geometrically striking, snow-capped mountains* by [digiplay/AbsoluteReality_v1.8.1](https://hf.co/digiplay/AbsoluteReality_v1.8.1)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
