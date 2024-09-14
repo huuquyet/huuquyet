@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A labyrinth made of towering hedgerows under a full moon* by [digiplay/AbsoluteReality_v1.8.1](https://hf.co/digiplay/AbsoluteReality_v1.8.1)
+*A mesmerizing swirl of bioluminescent plankton illuminating a secluded cove* by [digiplay/AbsoluteReality_v1.8.1](https://hf.co/digiplay/AbsoluteReality_v1.8.1)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
