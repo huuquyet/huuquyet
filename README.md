@@ -178,9 +178,12 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 September 2024 - To: 13 September 2024
+From: 07 September 2024 - To: 14 September 2024
 
-Other   1 hr 24 mins    █████████████████████████   100.00 %
+Other    6 hrs 22 mins   ████████████████▓░░░░░░░░   66.68 %
+Python   2 hrs 41 mins   ███████░░░░░░░░░░░░░░░░░░   28.23 %
+Text     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+CSV      13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 <!--END_SECTION:waka-->
