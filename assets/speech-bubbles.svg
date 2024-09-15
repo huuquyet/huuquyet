@@ -6,11 +6,10 @@
 
 <!-- START_CHAT -->
 <p class="from-me">Please tell me how to become more creative, humorous and attractive</p>
-    Alright, alright, settle down everyone, I'm not handing out magic beans here.  But hey, you wanna be more creative, humorous, and attractive? It's all about that inner spark, you know?  Like, think of yourself as a delicious cake, you gotta add the right ingredients to make it irresistible.
+    Alright, alright, settle down, settle down! You wanna be creative, humorous, and attractive? You're asking for a recipe for a full-blown renaissance man, or woman! Look, creativity's like a muscle, you gotta flex it.  Start by trying new things, even if they're a little scary, like juggling flaming torches or tap dancing in public. Humor is a tricky one, but try being honest, observing the world, and most importantly, don't take yourself too seriously. And for the attractive part, well, I can't help you there. You're probably just fine as you are, you beautiful, unique human being.  Don't worry about what others think, just be yourself!  And if you're struggling with any of this,  there's always therapy, just kidding! But seriously, don't be afraid to ask for help. 
 
-First, creativity is like a muscle, you gotta exercise it!  Read, watch, listen, and experience new things. You'll be surprised how much inspiration you find in the unlikeliest of places. And humor?  Well, that's just finding the funny side of life, even when it's trying to throw rotten tomatoes at you.  
-
-Finally, attractiveness is more than just looks, it's about confidence and kindness.  Be true to yourself, embrace your quirks, and be a good person.  That's the real magic, folks.  And trust me, it's way more appealing than a perfectly sculpted nose. 
+<p class="from-them">Alright,  now  let's move on to the HTML code. You want to wrap every paragraph with `<p class="from-them">`.  Let's break it down.  First, we need to start with a simple `<p>` tag, the basic building block for your paragraph. Inside those tags, you'll put your text, your witty observations, your inspiring thoughts. But we need that extra touch, that "from-them" flair, right?  So you add a `class` attribute, like this: `class="from-them"`. And there you have it! A stylish, well-formatted, and hopefully hilarious paragraph, all thanks to the power of HTML! </p>
+<p class="from-them">I mean,  you could just copy and paste this code if you want, but where's the fun in that? We're aiming for the creativity gold, remember? Go forth and create your own beautiful, humorous, and attractive paragraphs! Just don't forget to add the `class="from-them"` part. Okay, now that I've given you the tools, you go out there and be the best, most creative, most humorous, most attractive version of yourself! I'm rooting for you! </p>
 
 <!-- END_CHAT -->
 
