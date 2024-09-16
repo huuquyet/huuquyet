@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A towering, snow-capped mountain reflecting in a glassy alpine lake* by [Yntec/epiCPhotoGasm](https://hf.co/Yntec/epiCPhotoGasm)
+*A geometrically perfect formation of dewdrops on a spider's web, their tiny structures refracting the morning light into a myriad of colors* by [digiplay/AbsoluteReality_v1.8.1](https://hf.co/digiplay/AbsoluteReality_v1.8.1)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
