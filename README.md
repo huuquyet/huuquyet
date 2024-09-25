@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A luminous field of fireflies blinking rhythmically against the deep velvet of a summer night* by [dreamlike-art/dreamlike-photoreal-2.0](https://hf.co/dreamlike-art/dreamlike-photoreal-2.0)
+*An intricate, geometric ice formation under the elusive midnight sun* by [stable-diffusion-v1-5/stable-diffusion-v1-5](https://hf.co/stable-diffusion-v1-5/stable-diffusion-v1-5)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
