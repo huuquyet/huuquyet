@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A sprawling vineyard bathed in the golden light of autumn* by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
+*A tranquil bamboo forest, with a light mist gently wrapping around the tall, slender stalks* by [digiplay/insaneRealistic_v1](https://hf.co/digiplay/insaneRealistic_v1)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
