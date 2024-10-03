@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A tranquil bamboo forest, with a light mist gently wrapping around the tall, slender stalks* by [digiplay/insaneRealistic_v1](https://hf.co/digiplay/insaneRealistic_v1)
+*A geometrically perfect, spiraling double helix formed by a myriad of twinkling stars, set against the canvas of deep space* by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
