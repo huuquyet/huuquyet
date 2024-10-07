@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A night sky illuminated by a radiant display of the Northern Lights, mirrored in the stillness of a pristine lake* by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
+*A vast field of sunflowers turning to face the rising sun* by [Corcelio/mobius](https://hf.co/Corcelio/mobius)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
