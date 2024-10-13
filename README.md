@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A geometrically perfect crystal cave, its walls adorned with shimmering stalactites and stalagmites* by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
+*A pristine frozen lake reflecting the aurora borealis amidst the vast wilderness* by [digiplay/insaneRealistic_v1](https://hf.co/digiplay/insaneRealistic_v1)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
