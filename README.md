@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A pristine frozen lake reflecting the aurora borealis amidst the vast wilderness* by [digiplay/insaneRealistic_v1](https://hf.co/digiplay/insaneRealistic_v1)
+*A geometrically perfect formation of cherry blossom trees, their branches heavy with delicate pink blossoms* by [dreamlike-art/dreamlike-photoreal-2.0](https://hf.co/dreamlike-art/dreamlike-photoreal-2.0)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
