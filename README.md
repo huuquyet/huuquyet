@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A geometrically perfect formation of cherry blossom trees, their branches heavy with delicate pink blossoms* by [dreamlike-art/dreamlike-photoreal-2.0](https://hf.co/dreamlike-art/dreamlike-photoreal-2.0)
+*A vast, sprawling desert, its dunes shaped by the wind into a mesmerizing pattern of curves and peaks* by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
