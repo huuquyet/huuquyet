@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A geometrically perfect array of luminescent mushrooms growing on a moss-covered log, their glow creating an ethereal spectacle in the heart of a dense forest* by [dreamlike-art/dreamlike-photoreal-2.0](https://hf.co/dreamlike-art/dreamlike-photoreal-2.0)
+*A serene alpine lake, cradled by snow-dusted mountains, harboring a single, perfectly symmetrical, iceberg* by [dreamlike-art/dreamlike-photoreal-2.0](https://hf.co/dreamlike-art/dreamlike-photoreal-2.0)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
