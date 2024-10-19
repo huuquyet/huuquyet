@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A geometrically perfect formation of smooth pebbles stacked in a Zen garden, their rounded shapes reflecting the calmness of the rippling pond* by [Yntec/epiCPhotoGasm](https://hf.co/Yntec/epiCPhotoGasm)
+*A meandering river cutting through a vibrant carpet of wildflowers, under the gentle arch of a rainbow* by [Corcelio/mobius](https://hf.co/Corcelio/mobius)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
