@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A pristine, snow-covered mountain peak reaching towards the heavens* by [Yntec/epiCPhotoGasm](https://hf.co/Yntec/epiCPhotoGasm)
+*A labyrinth of geometric ice caves* by [digiplay/insaneRealistic_v1](https://hf.co/digiplay/insaneRealistic_v1)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
