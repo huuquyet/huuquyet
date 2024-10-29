@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A serene zen garden, with meticulously raked sand, encircling a solitary, vibrant cherry blossom tree under a full moon* by [stabilityai/stable-diffusion-2-1](https://hf.co/stabilityai/stable-diffusion-2-1)
+*A solitary dew-kissed spiderweb woven between two autumn leaves* by [dreamlike-art/dreamlike-photoreal-2.0](https://hf.co/dreamlike-art/dreamlike-photoreal-2.0)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
