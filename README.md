@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A massive, ancient oak tree standing solitary in the midst of a vibrant, wildflower meadow* by [stabilityai/stable-diffusion-xl-base-1.0](https://hf.co/stabilityai/stable-diffusion-xl-base-1.0)
+*A pristine, white snowfield, untouched except for the intricate, geometric patterns created by the frosty wind* by [Yntec/epiCPhotoGasm](https://hf.co/Yntec/epiCPhotoGasm)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
