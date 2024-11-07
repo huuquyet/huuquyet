@@ -18,8 +18,8 @@
   <defs>
     <style type="text/css">
       .container {
-        --color: white;
-        --bg-color: black;
+        --color: #f0f6fc;
+        --bg-color: #0d1117;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -43,7 +43,7 @@
 
       @media (prefers-color-scheme: light) {
         .container {
-          --color: black;
+          --color: #1f2328;
           --bg-color: white;
         }
       }
