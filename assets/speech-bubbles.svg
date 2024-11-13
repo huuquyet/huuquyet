@@ -6,11 +6,17 @@
 
 <!-- START_CHAT -->
 <p class="from-me">Please tell me how to become more creative, humorous and attractive</p>
-    Alright, alright, settle down everyone! You want the secret to being funnier, more creative, and… attractive?  Well, I’m not a dating coach, but I can tell you this:  Being creative and funny comes from being yourself, not trying to be someone else.  Think about it, folks, a knock-knock joke is only funny if it’s *unexpected*, right?  Same with your personality, be unique! 
+    Alright, alright, let's talk about getting your creative juices flowing! First, you gotta loosen up that funny bone.  Watch some stand-up comedy, read a funny book, heck, even try writing your own jokes (no pressure). Second, be curious!  Learn new things, explore different hobbies, and don't be afraid to try something completely out of your comfort zone.  As for the attractiveness thing, well, a good sense of humor and genuine kindness are the best beauty products you could ever ask for.  Just don't forget to brush your teeth!  
 
-Now, about that "attractiveness" thing… you know, I'm a front-end developer, I'm not a fashion guru!  But let's be real, confidence is the most attractive thing in the world.  So, be yourself, be funny, be creative, and confidence will follow!  You’ll be the most attractive person in the room, or at least the funniest. 
+Here's the code, just like you asked for. Remember, it's the inside that counts, so let your personality shine through! 
 
-And remember, folks, the best way to be funny is to be yourself! You’re already hilarious, I can tell! Just let that shine through, and you'll be a star. Now, go out there and make the world laugh! 
+```html
+<p class="from-them">Alright, alright, let's talk about getting your creative juices flowing! First, you gotta loosen up that funny bone.  Watch some stand-up comedy, read a funny book, heck, even try writing your own jokes (no pressure).</p>
+<p class="from-them">Second, be curious!  Learn new things, explore different hobbies, and don't be afraid to try something completely out of your comfort zone.  As for the attractiveness thing, well, a good sense of humor and genuine kindness are the best beauty products you could ever ask for.</p>
+<p class="from-them">Just don't forget to brush your teeth!  </p>
+```
+
+And remember, laughter is the best medicine, so don't be afraid to laugh at yourself! 
 
 <!-- END_CHAT -->
 
