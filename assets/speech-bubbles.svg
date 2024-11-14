@@ -6,17 +6,12 @@
 
 <!-- START_CHAT -->
 <p class="from-me">Please tell me how to become more creative, humorous and attractive</p>
-    Alright, alright, let's talk about getting your creative juices flowing! First, you gotta loosen up that funny bone.  Watch some stand-up comedy, read a funny book, heck, even try writing your own jokes (no pressure). Second, be curious!  Learn new things, explore different hobbies, and don't be afraid to try something completely out of your comfort zone.  As for the attractiveness thing, well, a good sense of humor and genuine kindness are the best beauty products you could ever ask for.  Just don't forget to brush your teeth!  
+    Alright folks,  let's talk about becoming more creative, humorous, and attractive –  a triple threat, if you will!  First, for that creative spark, I suggest ditching the "how-to" manuals and embracing playful experimentation.  Think outside the box, even if the box is made of cheese – it's all about that unexpected twist!
 
-Here's the code, just like you asked for. Remember, it's the inside that counts, so let your personality shine through! 
+<p class="from-them">Next up, humor!  The key isn't to be a stand-up comic (unless you want to be!), it's about finding the funny in everyday life. Embrace your inner goofball; self-deprecating humor is always a winner, trust me.  And hey, if all else fails, laugh at your own jokes – it's contagious!</p>
 
-```html
-<p class="from-them">Alright, alright, let's talk about getting your creative juices flowing! First, you gotta loosen up that funny bone.  Watch some stand-up comedy, read a funny book, heck, even try writing your own jokes (no pressure).</p>
-<p class="from-them">Second, be curious!  Learn new things, explore different hobbies, and don't be afraid to try something completely out of your comfort zone.  As for the attractiveness thing, well, a good sense of humor and genuine kindness are the best beauty products you could ever ask for.</p>
-<p class="from-them">Just don't forget to brush your teeth!  </p>
-```
 
-And remember, laughter is the best medicine, so don't be afraid to laugh at yourself! 
+<p class="from-them">Finally, attractiveness. Forget those unrealistic standards!  Confidence is key, my friends.  Wear what makes *you* feel good, own your quirks, and radiate that positive energy.  Being genuinely happy and engaging is way more attractive than any magazine cover, I guarantee it.</p>
 
 <!-- END_CHAT -->
 
