@@ -40,15 +40,6 @@ jobs:
       with:
         random: true
 
-    # Generate chat with Gemini, output speech-bubbles.svg at <assets> folder
-    - name: Generate chat bubbles with Gemini model
-      id: gemini
-      uses: huuquyet/generate-awesome-text@main
-      env:
-        GEMINI_API_TOKEN: ${{ secrets.GEMINI_API_TOKEN }}
-      with:
-        prompt: 'Please tell me how to become more creative, humorous and attractive'
-
     # Get random quotes from The Tale of Kieu - Nguyen Du, output random-kieu.svg at <assets> folder
     - name: Get random quotes from The Tale of Kieu
       id: kieu
