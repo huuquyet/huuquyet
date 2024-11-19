@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A serene Zen garden with perfectly raked sand and standing stones* by [stabilityai/stable-diffusion-xl-base-1.0](https://hf.co/stabilityai/stable-diffusion-xl-base-1.0)
+*A lone cherry blossom tree in full bloom near the edge of a tranquil pond* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
