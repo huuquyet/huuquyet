@@ -1,9 +1,9 @@
 name: update-profile-daily
 
 on:
-  # Run automatically everyday at 00:05
+  # Run automatically everyday at 21:00
   schedule:
-  - cron: "5 0 * * *"
+  - cron: "0 21 * * *"
   
   # Allows to manually run the job at any time
   workflow_dispatch:
