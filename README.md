@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A geometrically perfect formation of lotus flowers blooming on the serene surface of an ancient temple pond* by [Yntec/epiCPhotoGasm](https://hf.co/Yntec/epiCPhotoGasm)
+*A geometrically perfect formation of cherry blossom petals floating on the surface of a tranquil pond, their delicate pink hues creating a soothing palette* by [Yntec/epiCPhotoGasm](https://hf.co/Yntec/epiCPhotoGasm)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
