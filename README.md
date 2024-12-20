@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A cascade of water tumbling down a rugged mountainside, surrounded by vibrant wildflowers* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+*A cascading waterfall in a lush, emerald-green rainforest* by [stable-diffusion-v1-5/stable-diffusion-v1-5](https://hf.co/stable-diffusion-v1-5/stable-diffusion-v1-5)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
