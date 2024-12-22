@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A tranquil lake mirroring the ethereal glow of a bioluminescent forest* by [digiplay/insaneRealistic_v1](https://hf.co/digiplay/insaneRealistic_v1)
+*A serene, meandering river flowing through a vibrant autumn forest* by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
