@@ -159,13 +159,13 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 December 2024 - To: 21 December 2024
+From: 15 December 2024 - To: 22 December 2024
 
-Java              28 hrs 16 mins  ███████████████████▒░░░░░   76.98 %
-Python            3 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-Other             2 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-XML               47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Markdown          38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Java              28 hrs 16 mins  ███████████████████▒░░░░░   77.99 %
+Python            3 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+Other             2 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+XML               47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Markdown          33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
