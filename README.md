@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A flawless pattern of lotus flowers in full bloom on a serene, mirror-like pond* by [Yntec/epiCPhotoGasm](https://hf.co/Yntec/epiCPhotoGasm)
+*A tranquil Japanese Zen garden with raked sand patterns and perfectly placed rocks* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
