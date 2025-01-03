@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A tranquil Japanese Zen garden with raked sand patterns and perfectly placed rocks* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+*A serene desert landscape with towering sand dunes* by [Yntec/epiCPhotoGasm](https://hf.co/Yntec/epiCPhotoGasm)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
