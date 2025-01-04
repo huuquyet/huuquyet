@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A geometrically perfect formation of dew-kissed dandelion seeds, their delicate structures catching the first rays of the morning sun* by [digiplay/insaneRealistic_v1](https://hf.co/digiplay/insaneRealistic_v1)
+*A delicate frosted leaf, intricately veined and edged with morning dew* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
