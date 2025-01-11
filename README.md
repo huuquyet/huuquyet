@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*An endless expanse of sand dunes, their crests highlighted by the first light of dawn* by [stabilityai/stable-diffusion-xl-base-1.0](https://hf.co/stabilityai/stable-diffusion-xl-base-1.0)
+*A geometrically perfect formation of fireflies, their gentle glow illuminating the heart of a lush, ancient forest* by [Yntec/epiCPhotoGasm](https://hf.co/Yntec/epiCPhotoGasm)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
