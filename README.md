@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A captivating desert landscape under a starry sky* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+*A geometrically perfect formation of translucent jellyfish, their bioluminescent glow illuminating the deep ocean* by [Yntec/epiCPhotoGasm](https://hf.co/Yntec/epiCPhotoGasm)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
