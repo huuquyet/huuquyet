@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A shimmering, geometric ice cave* by [stabilityai/stable-diffusion-xl-base-1.0](https://hf.co/stabilityai/stable-diffusion-xl-base-1.0)
+*A sunflower field in full bloom, its golden heads swaying gently in the breeze* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
