@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A field of bioluminescent mushrooms in a dense forest* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+*A geometrically perfect spiral of dew-kissed fern fronds unfurling in a dense rainforest* by [stabilityai/stable-diffusion-xl-base-1.0](https://hf.co/stabilityai/stable-diffusion-xl-base-1.0)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
