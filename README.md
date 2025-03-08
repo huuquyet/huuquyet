@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A geometrically perfect formation of ancient stone monoliths standing tall in a dense, foggy forest* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+*A serene Zen garden, with raked sand symbolizing water and precisely placed rocks representing islands* by [stabilityai/stable-diffusion-xl-base-1.0](https://hf.co/stabilityai/stable-diffusion-xl-base-1.0)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
