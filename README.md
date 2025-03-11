@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A field of twinkling fireflies hovering over a tranquil pond* by [Yntec/epiCPhotoGasm](https://hf.co/Yntec/epiCPhotoGasm)
+*A breathtaking aurora borealis display dancing across a pristine, snow-covered arctic tundra* by [digiplay/insaneRealistic_v1](https://hf.co/digiplay/insaneRealistic_v1)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
