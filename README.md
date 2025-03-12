@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A breathtaking aurora borealis display dancing across a pristine, snow-covered arctic tundra* by [digiplay/insaneRealistic_v1](https://hf.co/digiplay/insaneRealistic_v1)
+*A geometrically perfect field of blooming tulips dancing under the wind, with a peacefully flowing river in the background* by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
