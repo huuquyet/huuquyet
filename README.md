@@ -159,13 +159,13 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 March 2025 - To: 13 March 2025
+From: 07 March 2025 - To: 14 March 2025
 
-TypeScript   25 hrs 10 mins  █████████████████▒░░░░░░░   69.43 %
-Java         4 hrs 52 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-JavaScript   2 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-Bash         1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-JSON         54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+TypeScript   26 hrs 19 mins  █████████████████▒░░░░░░░   69.25 %
+Java         5 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
+JavaScript   2 hrs 19 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+JSON         1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Bash         1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
