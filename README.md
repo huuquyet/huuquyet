@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A geometrically perfect formation of star-shaped sand dunes, their sharp edges highlighted by the moonlight* by [stabilityai/stable-diffusion-xl-base-1.0](https://hf.co/stabilityai/stable-diffusion-xl-base-1.0)
+*A geometrically perfect formation of bioluminescent mushrooms, their soft, ethereal glow illuminating an otherwise dark forest floor* by [Yntec/epiCPhotoGasm](https://hf.co/Yntec/epiCPhotoGasm)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
