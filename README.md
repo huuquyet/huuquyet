@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A labyrinthine field of vibrant, geometrically planted lavender blossoms* by [stable-diffusion-v1-5/stable-diffusion-v1-5](https://hf.co/stable-diffusion-v1-5/stable-diffusion-v1-5)
+*A geometrically perfect formation of lotuses blooming on a serene pond, their petals softly reflecting the moonlight* by [CompVis/stable-diffusion-v1-4](https://hf.co/CompVis/stable-diffusion-v1-4)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
