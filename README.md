@@ -36,7 +36,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
   ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
 
 <!-- START_CAPTION -->
-*A geometrically perfect constellation of glowing orbs, floating above a serene lily pond* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
+*A vast field of blooming sunflowers under a clear blue sky* by [prompthero/openjourney-v4](https://hf.co/prompthero/openjourney-v4)
 <!-- END_CAPTION -->
   </div>
   <div align="right">
