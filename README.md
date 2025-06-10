@@ -26,30 +26,9 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
 
 ---
 
-### Awesome wallpaper everyday
-
-<details open>
-  <summary><b>🖼️ I created a Github action to generate this awesome wallpaper everyday</b></summary>
-
-  <div align="center">
-
-  ![Awesome Wallpapers](./assets/wallpaper.jpg "Awesome wallpapers")
-
-<!-- START_CAPTION -->
-*A labyrinthine field of vibrant, geometrically planted lavender blossoms* by [stabilityai/stable-diffusion-xl-base-1.0](https://hf.co/stabilityai/stable-diffusion-xl-base-1.0)
-<!-- END_CAPTION -->
-  </div>
-  <div align="right">
-
-  *generated with [generate-awesome-wallpapers](https://github.com/huuquyet/generate-awesome-wallpapers)*
-  </div>
-</details>
-
----
-
 ### I love opensource ❤️
 
-🌱 I’m currently learning Transfomers.js
+🌱 I’m currently learning how to learn
 
 💬 Ask me about: 
 <img height='32' width='32' src='https://cdn.simpleicons.org/typescript/darkcyan/lightyellow' alt='Typescript'>
