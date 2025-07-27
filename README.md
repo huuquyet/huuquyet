@@ -138,7 +138,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 July 2025 - To: 26 July 2025
+From: 20 July 2025 - To: 27 July 2025
 
 TypeScript        9 hrs 48 mins   █████████▒░░░░░░░░░░░░░░░   37.84 %
 Java              8 hrs 49 mins   ████████▓░░░░░░░░░░░░░░░░   34.02 %
