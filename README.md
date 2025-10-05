@@ -138,7 +138,7 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
 <!--START_SECTION:waka-->
 
 ```rust
-From: 27 September 2025 - To: 04 October 2025
+From: 28 September 2025 - To: 05 October 2025
 
 TOML         47 mins         ██████████▓░░░░░░░░░░░░░░   42.34 %
 JSON         28 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
