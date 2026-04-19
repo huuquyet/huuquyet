@@ -138,12 +138,10 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
 <!--START_SECTION:waka-->
 
 ```rust
-From: 11 April 2026 - To: 18 April 2026
+From: 12 April 2026 - To: 19 April 2026
 
-TOML       12 mins               ██████████████░░░░░░░░░░░   56.14 %
-Python     5 mins                █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
-Markdown   4 mins                █████░░░░░░░░░░░░░░░░░░░░   20.05 %
-JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Python     9 mins                ██████████████████▓░░░░░░   74.39 %
+Markdown   3 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
 ```
 
 <!--END_SECTION:waka-->
