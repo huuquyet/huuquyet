@@ -138,10 +138,10 @@ Mỗi ngày một câu Kiều bằng chữ Nôm ([bản Kinh Tự Đức 1870](h
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 September 2026 - To: 30 September 2026
+From: 24 September 2026 - To: 01 October 2026
 
-HTML          7 hrs 40 mins         ████████████████▓░░░░░░░░   66.63 %
-Image (svg)   3 hrs 50 mins         ████████▒░░░░░░░░░░░░░░░░   33.37 %
+HTML          7 hrs 47 mins         ████████████████▓░░░░░░░░   66.96 %
+Image (svg)   3 hrs 50 mins         ████████▒░░░░░░░░░░░░░░░░   33.04 %
 ```
 
 <!--END_SECTION:waka-->
